@@ -53,7 +53,7 @@ In order to change your attributes you will need to acquire a Serum that can spl
 ## Character Creation
 
 1. Grab or Print a Body Board
-    1.1. Randomly select 3 Body Parts. 
+    1.1. Randomly select 3 Body Parts.
     1.2. Keep 1 Body Part and discard the other 2 Body Parts.
 2. Distribute the following scores for each Attribute: 2, 2, 3, 3, 4.
 3. Roll 3d6, the highest result will be your max Catabolic Points.

@@ -34,4 +34,35 @@ Sometimes creatures will be made to lose Focus on something, usually due to them
 > A guard changes focus to a brawl on the streets thus allowing the party to sneak behind them.
 A creature becomes in Awe of another thus changing focus from one creature to another. The other creature is now able to Hide In Plain Sight as they are no longer being Focussed on by anyone.
 
+## Distance and Direction
 
+Sometimes an Ability will require the Mutated to be a certain distance from the opposing creature. Or a Body Part providing defence will only protect in a particular direction.
+
+There are five Distances: Afar, Distant, Near, Close and Personal. In general Personal is occupying the same space, Close is within melee distance, Near is within walking distance and Distant is within running distance, and Afar within shooting range.
+
+In addition there are four Direction: Front, Left, Right, Back, which determine on which side of you an opposing creature may be.
+
+### Falling
+
+When falling you will take a certain amount of Damage depending on the Distance you fall with nothing to break your fall, as per the following:
+Close: 0-2 Damage
+Near: 3 - 8 Damage
+Distant: 9 -16 Damage
+Afar: 17-28 Damage
+Half the damage will be dealt as Physical Damage, the other half dealt as Internal Damage.
+
+> #### Mind And Matter
+>
+> This method of Distance and Direction aims to facilitate minatureless play, allowing for somewhat streamlined theatre of mind play. If instead you wish to run a game with miniatures to showcase some wacky and horrifying creatures the Distances and Directions can be adapted as follows:
+>
+> Playing on square grid the distances translate to the following number of squares:
+>
+> - **Afar:** Within 24 Spaces
+> - **Distant:** Within 12 Spaces
+> - **Near:** Within 6 Spaces
+> - **Close:** Within 1 Space
+> - **Personal:** Occupying Same Space
+>
+> The Directions work by extending lines at 45 degree angles from the location of the creature. If falling between the lines then you are on that side of the creature, if you are on the 45 degree line then you have visibility of two sides.
+
+![direction & distance](../media/dirdist.png)
