@@ -1,0 +1,124 @@
+# Tools
+
+Tools are a relic of the old world. There are no longer advanced manufacturing and global supply chains so these devices have been left to slowly rust away. Tools grant temporary Abilities for the duration that they are possessed, you do not have to spend the Catabolic Points associated with the Abilities, however each time the Tool is Activated the Tool will take 1 Damage.
+
+- Bent Shovel
+  - Dig Deep
+- Blunt Knife
+  - Shred ‘Em
+- Old Baton
+  - Beat to Dust
+- Brass Knuckles
+  - Beat to Dust
+  - Appear Innocent
+- Swiss Army Knife
+  - Pick A Lock
+  - Disarm Contraption
+- Rusted Lock Pick
+  - Pick A Lock
+- Bomb Defusal Tools
+  - Disarm Contraption
+- First Aid Kit
+  - Revitalised
+- Defibrillator
+  - Reborn
+  - Electrocute!
+- Compact Bow and Arrows
+  - Bristle Barrage
+- Jammed Hunter’s Rifle
+  - Amazing Shot
+- Dented Riot Shield
+  - I Don’t Feel It
+- Torn Kevlar Vest
+  - Resist Harm
+- USB Drive
+  - Why Tho?
+- Surround Sound System
+  - Deafening Roar
+  - Frightening Howl
+- Shorted Taser Gun
+  - Electrocute!
+- Empty Pepper Spray Can
+  - Toxic Spray
+- Scuba Mask and Tank
+  - Aquatic Breath
+- Burst Pressure Washer
+  - Water Jet
+- Rope With A Hook
+  - Climb Over
+  - Pull In
+  - Restrain
+- Karaoke Mic
+  - Mimic Sound
+  - Hypnotic Song
+- Bag of Grenades
+  - Explosive Payload
+- Chewed Flippers
+  - Fast Swim
+- Flat Flashlight
+  - Shine Bright
+- Magic Trick Case
+  - Socialise
+- Flash Bang
+  - Blinding Light
+- Gas Lighter
+  - Throw Flame
+- Crowbar
+  - Pick A Lock
+  - Beat to Dust
+- Axe
+  - Rip them Apart
+- Pickaxe
+  - Gaping Puncture
+  - Dig Deep
+
+## Gear
+
+Gear are random bits and bobs that you may find in the world, they don't have any particular use, however some may be used as currency among certain societies or could be used in creative ways to solve problems, perhaps some items have an emotional value and you just carry it around for comfort. Below is a non-exhaustive list of gear.
+
+- Electronic Chips (currency)
+- Metal Fittings (currency)
+- Bullets (currency)
+- Sack
+- Copper wire
+- Metal Rod
+- Wood Beam
+- Glass Bottles
+- Briefcase
+- Rope
+- Binoculars
+- Backpack
+- Bucket
+- Bait
+- Crate
+- Toolbox
+- Pen Pencil
+- Climbers Gear
+- Artists Gear
+- Medic’s Gear
+- Performers Gear
+- Chemists Gear
+- Cooking Kit
+- Camping Gear
+- Wiring Kit
+- Ladder
+- Pad Lock
+- Whistle
+- Petrol
+- Battery
+- PVC Pipe
+- Fabric
+- Traps
+- Chain
+- Bio Mush
+- Meat
+- Vegetables
+- Glass Flasks
+- Rubber Tires
+- Metal rebar
+- Fishing Wire
+- Bag of Cement
+- Plastic Containers
+- Tent
+- Sleeping Bag
+- Teddy Bear
