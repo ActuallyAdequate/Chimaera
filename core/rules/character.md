@@ -36,7 +36,7 @@ Catabolism is a measure of your energy. Particularly extraneous Abilities will r
 
 ### Body Parts
 
-The Mutated must connect limbs, organs, skin, teeth, and bone to their Body in order to become an effective killer, negotiator, explorer and beast hunter. Body Parts will grant the Mutated special abilities which will allow them to pull off fantastic tricks, daring feats, and dangerous maneuvers. This is achieved by Activating  the Body Part which allows you to execute any of the Abilities on the Body Part provided you can pay the cost in Catabolic Points or satisfy any triggers.
+The Mutated must connect limbs, organs, skin, teeth, and bone to their Body in order to become an effective killer, negotiator, explorer and beast hunter. Body Parts will grant the Mutated special abilities which will allow them to pull off fantastic tricks, daring feats, and dangerous manoeuvres. This is achieved by Activating  the Body Part which allows you to execute any of the Abilities on the Body Part provided you can pay the cost in Catabolic Points or satisfy any triggers.
 
 Having multiple Body Parts means that the Mutated will have more Abilities in their arsenal. It also increases the amount of Damage they can take as each Body Part has the 4 levels of Disrepair which are tracked individually. Any enemy creature has to reduce all the Mutated’s Body Parts to Broken before they can target the Body, and thus Defeat them. Similarly enemy creatures with more Body Parts are difficult to defeat as they also will have more Abilities, and can take more Damage.
 
