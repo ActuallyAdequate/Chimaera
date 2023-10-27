@@ -147,3 +147,37 @@ A creature is Defeated if all of its Body is reduced to a disrepair or Broken. A
 ### Revival
 
 A creature can be revived through a special ritual. When you are Defeated you are no longer targeted for attack, but can be dismembered and used for parts. If there are no allies nearby you may never be revived, doomed to be torn apart. However if your allies survive a battle that you were killed in they are able to revive you upon the fight's conclusion. In order to do this  they must collect a variety of parts and reassemble you in a ritual that takes 5 hours. As the ritual proceeds you take the Metamorphosis Ability for each part that you attach.
+
+## Malfunctions
+
+- A strange noise is emitted from it every now and then
+- It is always limp and flops about when you move
+- It has a distinct smell that creatures can detect
+- It jolts about every now and then
+- It's an odd colour
+- Sometimes you can hear it make little screaming sounds
+- It falls off at the most inconvenient times
+- It has extra digits, skin flaps or bumps
+- The bones inside are brittle
+- It is lumpy
+- Sometimes pus seeps out of it
+- It accidentally executes some of its Abilities
+- It looks broken but isn’t
+- Its double jointed
+- It looks really muscly
+- It has a few odd bends in it
+- Its extra furry
+- Sometimes it wiggles around
+- Sometimes it points toward something
+- It gets really really itchy
+- It has a weird taste
+- It tries to get the attention of random creatures
+- It gets really dry and cracked
+- Sometimes it refuses to work
+- It sweats profusely
+- It has some spikes jutting out
+- It changes colour based on your emotion
+- Why are you hitting yourself?
+- Its aches a lot
+- Sometimes it reveals your true intentions
+- It’s got really long and matted hair
