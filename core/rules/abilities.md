@@ -94,6 +94,7 @@ You can breathe in water or hold your breath for an arbitrary amount of time.
 
 Tags: `Action React`
 Pound the enemy to a pulp. Select a target at a distance of Close. Roll BRT.
+
 |||
 |-----|-----|
 Super Success| Obliterate a Body Part.
@@ -119,6 +120,7 @@ You can close your ears so you can hear nothing.
 
 Tags: `Action React`
 Kick a target within a distance of Close. Roll your BRT.
+
 |||
 |-----|-----|
 Super Success | Deal 1 Physical Damage, and push them back to a distance of Near and gain the Prone condition.
@@ -129,6 +131,7 @@ Partial Fail | Deal 1 Physical Damage and they gain a React.
 
 Tags: `Action Cost (4cp)`
 You have three bristles that can be launched from your body. Choose 3 targets within Distant and roll FLX for each.
+
 |||
 |-----|-----|
 Super Success | Deal 1 Physical Damage. The bristle pins them to the wall or floor, they must spend an action tearing it out.
@@ -144,6 +147,7 @@ Throw a creature in the air that is within Close up to a height of Distant. Roll
 
 Tags: `Action Cost(3cp)`
 Choose a location that is within Distant. You move in a straight line to that location. For each creature you get at least Close to during the run, you can roll your BRT.
+
 |||
 |-----|-----|
 Super Success| Deal 1 Physical Damage AND they gain the Prone condition.
@@ -154,6 +158,7 @@ Partial Fail | Deal 1 Physical Damage OR they gain the Prone condition. (their c
 
 Tags: `Action Time (3cp)`
 When you enter Personal space You can Roll FLX or BRT. They will gain the Restrained condition. If the Restrained condition is maintained until the beginning of your next turn, they will take your MUT in Internal Damage.
+
 |||
 |-----|-----|
 Super Success | They are Restrained; you can subtract your BRT or FLX from their escape rolls.
@@ -189,6 +194,7 @@ You show off a display of dazzling colours, anyone that can see the colours gain
 
 Tags: `Action, Trigger, Cost (3cp)`
 When Higher than another creature and within a distance horizontally or Near, you can rapidly fall into their Personal space. Roll your BRT or FLX.
+
 |||
 |-----|-----|
 Super Success | Sever a Body Part.
@@ -199,6 +205,7 @@ Partial Fail | Deal 1 Physical Damage, you both gain the Prone condition.
 
 Tag: `Action Cost 6cp`
 You lock your jaws on your target, damaging half their Body Parts rounded down. Roll your BRT.
+
 |||
 |-----|-----|
 Super Success| Half of the Body Parts of the target are Severed
@@ -219,6 +226,7 @@ You are able to dig a small hole that can fit up to 2 creatures inside. The mate
 
 Tags: `Action`
 This ability grants expertise in disarming traps and machinery. Roll PSY.
+
 |||
 |-----|-----|
 Super Success | The contraption is disarmed. You may reset the trap to have a new trigger, and/or set off against the enemy.
@@ -259,6 +267,7 @@ Anyone of your choice who can hear you will gain the Frightened condition.
 
 Tags: `Action React`
 Stab through the enemy. Select a target at a distance of close. Roll BRT.
+
 |||
 |-----|-----|
 Super Success | Deal 1 Physical Damage, If the enemy targeted has any Internal Organs, they also take 1 Physical Damage.
@@ -295,6 +304,7 @@ When any parts are about to take Damage. You ignore all the Damage.
 
 Tags: `Trigger, Cost (4cp)`
 Whenever you take Physical Damage you redirect the impact. Roll MUT.
+
 |||
 |-----|-----|
 Super Success | Anyone within Near and on the Same Side of the impact takes 1 Damage, and anyone within Distant and on the Same Side gains the Prone condition.
@@ -305,6 +315,9 @@ Partial Fail | Anyone Near and on the Same Side of the impact gains the Prone co
 
 Tags: `Free`
 This action is when you engage the brain to think. Roll PSY.
+
+|||
+|----|----|
 Super Success | In addition to the Success result, you may learn additional information.
 Success | You learn what you want provided there is a way you could know.
 Partial Fail | You learn if you're on the right track or not.
@@ -313,6 +326,7 @@ Partial Fail | You learn if you're on the right track or not.
 
 Tags: `Trigger 2cp`
 When you are told something you can discern the truth. Roll PSY.
+
 |||
 |-----|-----|
 Super Success | You know if the person was lying and may be able to determine the truth.
@@ -349,6 +363,7 @@ Partial Fail | You may both gain the Confused condition, be fact checked on a li
 
 Tags: `Action Cost (3cp)`
 You manipulate the weak of mind to do your bidding. If your PSY is greater than your target you may take the Success result. If your PSY is over double your target you may take the Super Success result. Otherwise roll PSY.
+
 |||
 |-----|-----|
 Super Success | They believe anything you say, regardless of consequence, and will act on it.
@@ -404,6 +419,7 @@ Whenever anyone gets within Personal space of you, Deal 1 Damage.
 
 Tags: `Action`
 You are able to pick mechanical locks. Roll FLX.
+
 |||
 |-----|-----|
 Super Success | You open the lock completely silently
@@ -419,6 +435,7 @@ If you gain the Poisoned condition,If your MUT is greater than the Poisoner take
 
 Tags: `Action React`
 You leap forward to dismember your enemies. If you are Near to your enemy you can move to Close, or if Close from one Side to an adjacent Side. You can then roll BRT or FLX choosing a target within Close distance.
+
 |||
 |-----|-----|
 Super Success | You Sever a Body Part
@@ -434,6 +451,7 @@ You can move to a spot Near you in any direction, vertically, or horizontally.
 
 Tags: `Action React Cost 2cp`
 Target a creature within a distance of Distant. Roll FLX.
+
 |||
 |-----|-----|
 Super Success | You pull them into a distance of at least Distant, and they gain the Prone condition if desired.
@@ -445,6 +463,7 @@ Partial Fail | You pull them into a distance of at least Distant, and they are g
 Tags: `Trigger`
 This part cannot be Damaged, and does not count towards determining Defeat.
 When your Body is Defeated, you can be reborn. Roll your MUT.
+
 |||
 |-----|-----|
 Super Success | You heal Half your Body Parts to Fine (Assuming you have any) and continue the fight.
@@ -475,6 +494,7 @@ You are able to retract your Body Parts into this Body Part. While retracted you
 
 Tags: `Action Cost 2cp`
 You are able to heal your Body Parts, provided they aren’t Obliterated or Severed. Choose one of your Body Parts. Roll DRB.
+
 |||
 |-----|-----|
 Super Success | Heal the Body Part to Fine, gain 2cp.
@@ -485,6 +505,7 @@ Partial Failure | Heal the Body Part by 1 Disrepair.
 
 Tags: `Action React`
 Tear through your enemies. Select a target at a distance of Close. Roll your BRT.
+
 |||
 |-----|-----|
 Super Success | Sever a body part.
@@ -495,6 +516,7 @@ Partial Fail | Deal 1 Physical Damage. The enemy is granted a React.
 
 Tags: `Action Cost (2CP)`
 You curl up into a ball and move up to Distant. If you enter Personal space while rolling, roll BRT. You must immediately stop rolling.
+
 |||
 |-----|-----|
 Super Success | Deal 1 Internal Damage and they gain the Prone condition.
@@ -505,6 +527,7 @@ Partial Fail | You both gain the Prone condition.
 
 Tags: `Action`
 You can restore up to all your CP. Roll MUT.
+
 |||
 |-----|-----|
 Super Success | Regain all your CP.
@@ -520,6 +543,7 @@ For an ability you can see occurring, describe how you interfere with it and spe
 
 Tags: `Action`
 Your dextrous appendage is able to work its way into tight crevices to steal items from the unaware. Roll FLX.
+
 |||
 |-----|-----|
 Super Success | You are able to take any items from the location.
@@ -535,6 +559,7 @@ This action allows you to expel light up to a distance of Close, Near or Distant
 
 Tags: `Action React`
 Slice through the skin of your enemies. Select a target at a distance of close. Roll BRT.
+
 |||
 |-----|-----|
 Super Success| Deal 1 Physical Damage. If the enemy targeted has any Skin or Fur, they also take a Physical Damage.
@@ -592,6 +617,7 @@ You are able to climb up smooth walls and floors. You can climb to a spot Near y
 
 Tags: `Action React Cost 4cp`
 Choose a target that is at least Near you. Subtract their FLX from your MUT and roll that many dice.
+
 |||
 |-----|-----|
 Super Success | Deal 2 Physical Damage they gain the Alight condition.
@@ -602,6 +628,7 @@ Partial Fail | Deal 2 Physical Damage they gain a React.
 
 Tags: `Action, React`
 Choose a target within a distance of Close and roll FLX.
+
 |||
 |-----|-----|
 Super Success | You swap places. Choose which way the opponent is facing. You also deal 1 Physical Damage or they gain the Prone condition.
@@ -612,6 +639,7 @@ Partial Fail | You swap places but the opponent gains a React.
 
 Tags: `Action, React Cost 5cp`
 Choose a number of targets within a distance of Near and on a Single Side of you, and Roll FLX. You shoot a jet of toxic fluid.
+
 |||
 |-----|-----|
 Super Success | In addition to the Success results they also gain the Poisoned condition. Any part that can smell it is Inhibited.
@@ -627,6 +655,7 @@ You draw the blood from your enemy. Choose a target that is Close. They gain the
 
 Tags: `Action React`
 Choose a target that is Near. Roll FLX you shoot a jet of water at them.
+
 |||
 |-----|-----|
 Super Success | Deal 1 Physical Damage, and gain the Prone condition or are pushed back 1 Distance.
