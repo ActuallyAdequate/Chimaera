@@ -1,0 +1,60 @@
+name: Create Rulebook PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert_to_pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Pandoc
+        run: |
+          sudo apt install \
+          pandoc \
+          texlive-latex-base \
+          texlive-fonts-recommended \
+          texlive-extra-utils \
+          texlive-latex-extra \
+          texlive-xetex
+
+      - name: Read markdown order from file
+        id: read_order
+        run: |
+          pwd
+          ORDER_FILE=".github/order.txt"
+          if [ -f "$ORDER_FILE" ]; then
+            cat "$ORDER_FILE" | tr '\n' ' ' > order.txt
+          else
+            echo "Error: Markdown order file not found."
+            exit 1
+          fi
+
+      - name: Concatenate Markdown files
+        id: concatenate_markdown
+        run: |
+          for line in $(cat order.txt); do
+            if [ "$line" = "---" ]; then
+              echo "" >> concatenated.md  # Insert newline
+            else
+              cat "$line" >> concatenated.md
+              echo "" >> concatenated.md
+            fi
+          done
+
+      - name: Convert concatenated Markdown to PDF
+        run: |
+          pandoc concatenated.md -o rulebook/rulebook.pdf
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add rulebook/
+          git commit -m "Convert Markdown to PDF"
+          git push

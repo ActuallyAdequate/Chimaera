@@ -65,4 +65,4 @@ Half the damage will be dealt as Physical Damage, the other half dealt as Intern
 >
 > The Directions work by extending lines at 45 degree angles from the location of the creature. If falling between the lines then you are on that side of the creature, if you are on the 45 degree line then you have visibility of two sides.
 
-![direction & distance](../media/dirdist.png)
+![direction & distance](core/media/dirdist.png)
