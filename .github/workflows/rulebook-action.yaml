@@ -34,7 +34,7 @@ jobs:
 
       - name: Convert concatenated Markdown to PDF
         run: |
-          pandoc concatenated.md -o rulebook/rulebook.pdf
+          pandoc/latex concatenated.md -o rulebook/rulebook.pdf
 
       - name: Commit and push changes
         run: |
