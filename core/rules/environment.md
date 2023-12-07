@@ -110,7 +110,7 @@ If you don’t move each turn then you sink into the ground, you must spend 2cp 
 
 ### Slippery Surface
 
-Whenever a creature moves, they must move the full distance they can. This means if a creature has an ability that allows them to move to a distance of Distant, if they choose to move (even if executing a different Body Part with a different moving Ability they must move to a the full Distant distance.
+Whenever a creature moves, they must move the full distance they can. This means if a creature has an ability that allows them to move to a distance of Distant, if they choose to move (even if executing a different Body Part with a different moving Ability they must move to a the full Distant distance).
 
 ### Sticky Tar
 
