@@ -1,0 +1,45 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert_to_pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Pandoc
+        uses: docker://pandoc/latex:2.14
+
+      - name: Read markdown order from file
+        id: read_order
+        run: |
+          ORDER_FILE=".github/markdown_order.txt"
+          if [ -f "$ORDER_FILE" ]; then
+            cat "$ORDER_FILE" | tr '\n' ' ' > order.txt
+          else
+            echo "Error: Markdown order file not found."
+            exit 1
+          fi
+
+      - name: Concatenate Markdown files
+        id: concatenate_markdown
+        run: |
+          cat $(cat order.txt) > concatenated.md
+
+      - name: Convert concatenated Markdown to PDF
+        run: |
+          pandoc concatenated.md -o deploy/concatenated.pdf
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add deploy
+          git commit -m "Convert Markdown to PDF"
+          git push
