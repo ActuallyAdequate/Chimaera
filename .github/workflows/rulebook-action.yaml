@@ -37,14 +37,14 @@ jobs:
       - name: Concatenate Markdown files
         id: concatenate_markdown
         run: |
-        while IFS= read -r line; do
-          if [ "$line" = "---" ]; then
-            echo "\n---\n" >> concatenated.md  # Insert newline
-          else
-            cat "$line" >> concatenated.md
-            echo "\n" >> concatenated.md
-          fi
-        done < order.txt
+          for line in $(cat "$ORDER_FILE"); do
+            if [ "$line" = "---" ]; then
+              echo "" >> concatenated.md  # Insert newline
+            else
+              cat "$line" >> concatenated.md
+              echo "" >> concatenated.md
+            fi
+          done
 
       - name: Convert concatenated Markdown to PDF
         run: |
