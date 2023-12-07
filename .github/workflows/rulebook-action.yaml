@@ -15,6 +15,7 @@ jobs:
 
       - name: Set up Pandoc
         run: |
+          pwd
           sudo apt install \
           pandoc \
           texlive-latex-base \
