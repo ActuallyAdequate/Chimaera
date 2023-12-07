@@ -37,7 +37,7 @@ jobs:
       - name: Concatenate Markdown files
         id: concatenate_markdown
         run: |
-          for line in $(cat "$ORDER_FILE"); do
+          for line in $(cat order.txt); do
             if [ "$line" = "---" ]; then
               echo "" >> concatenated.md  # Insert newline
             else
