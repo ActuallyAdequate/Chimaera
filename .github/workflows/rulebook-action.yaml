@@ -19,7 +19,7 @@ jobs:
       - name: Read markdown order from file
         id: read_order
         run: |
-          ORDER_FILE=".github/markdown_order.txt"
+          ORDER_FILE=".github/order.txt"
           if [ -f "$ORDER_FILE" ]; then
             cat "$ORDER_FILE" | tr '\n' ' ' > order.txt
           else
@@ -34,12 +34,12 @@ jobs:
 
       - name: Convert concatenated Markdown to PDF
         run: |
-          pandoc concatenated.md -o deploy/concatenated.pdf
+          pandoc concatenated.md -o rulebook/rulebook.pdf
 
       - name: Commit and push changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add deploy
+          git add rulebook/
           git commit -m "Convert Markdown to PDF"
           git push
