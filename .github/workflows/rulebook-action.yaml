@@ -14,7 +14,14 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Set up Pandoc
-        uses: docker://pandoc/latex:2.14
+        run: |
+          sudo apt install \
+          pandoc \
+          texlive-latex-base \
+          texlive-fonts-recommended \
+          texlive-extra-utils \
+          texlive-latex-extra \
+          texlive-xetex
 
       - name: Read markdown order from file
         id: read_order
@@ -34,7 +41,7 @@ jobs:
 
       - name: Convert concatenated Markdown to PDF
         run: |
-          pandoc/latex concatenated.md -o rulebook/rulebook.pdf
+          pandoc concatenated.md -o rulebook/rulebook.pdf
 
       - name: Commit and push changes
         run: |
