@@ -1,4 +1,5 @@
 core/rules/overview.md
+---
 core/rules/key-rules.md
 core/rules/character.md
 core/rules/environment.md
@@ -9,5 +10,6 @@ core/rules/conditions.md
 core/rules/abilities.md
 core/rules/body-parts.md
 core/rules/tools-and-gear.md
+---
 core/gm-tools/preparing.md
 core/gm-tools/running.md
