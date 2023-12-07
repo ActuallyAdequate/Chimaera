@@ -138,7 +138,7 @@ The Body Part is torn off from the Body. It flies in the air and lands at your f
 
 > If playing with body part cards, the orientation of the cards will correspond to the level of disrepair:
 > Alternate with Paperclips
-> ![Rotating Cards](../media/damage-cards.png)
+> ![Rotating Cards](core/rules/media/damage-cards.png)
 
 ### Defeat
 
