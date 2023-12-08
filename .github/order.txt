@@ -1,4 +1,5 @@
 core/rules/overview.md
+core/lore/assumptions.md
 ---
 core/rules/key-rules.md
 core/rules/character.md
