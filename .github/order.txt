@@ -11,7 +11,8 @@ core/rules/combat.md
 core/rules/conditions.md
 core/rules/abilities.md
 core/rules/body-parts.md
-core/rules/tools-and-gear.md
+core/rules/tools.md
+core/rules/gear-electronics-resources.md
 ---
 core/gm-tools/preparing.md
 core/gm-tools/running.md
