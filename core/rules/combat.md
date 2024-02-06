@@ -17,7 +17,7 @@ For each Action the player will Activate one of their Body Parts, allowing them 
 
 Depending on the outcomes of each Action, the opposition may be granted a React. Only one React is granted per Turn even if both Actions result in granting a React. It is possible for the same opposing creature to have multiple Reacts granted by different players’ Turns.
 
-Some Abilities rather than being activated as an Action are activated when some Trigger occurs. These can occur at any time, whether in between Turns, during an Action or before a React. When the Trigger occurs the ability is immediately resolved and then the Action or React is carried out from the point it was interrupted.
+Some Abilities rather than being activated as an Action are activated when some Trigger occurs. These can occur at any time, whether inbetween Turns, during an Action or before a React. When the Trigger occurs the ability is immediately resolved and then the Action or React is carried out from the point it was interrupted.
 
 ## Dealing Damage
 
@@ -25,4 +25,6 @@ Most of the time when you deal Damage you choose what Body Part you are attackin
 
 ## Reacts
 
-Often Reacts are granted when an Action Partially Fails. Each player's Turn can only grant 1 React. When executing a React, the rules for Partial Fail may change. If the Partial Fail would grant a React it does not, instead the React Fails and nothing occurs (This means if a Partial Fail would usually deal 1 Damage and grant another React, it instead deals No Damage and No React is granted).
+Often Reacts are granted when an Action Partially Fails. Each player's Turn can only grant 1 React. Reacts always occur after both actions of the player whose turn it is, is completed, even if the React is granted on the first action. This also means that a player may use there second action to negate the React that will come after it, such as running away on their second action to avoid a melee reaction.
+
+When executing a React, the rules for Partial Fail may change. If the Partial Fail would grant a React it does not, instead the React Fails and nothing occurs (This means if a Partial Fail would usually deal 1 Damage and grant another React, it instead deals No Damage and No React is granted).

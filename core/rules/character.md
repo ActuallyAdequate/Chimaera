@@ -32,13 +32,13 @@ A Measure of your resistance and endurance against metabolic challenges.
 
 Catabolism is a measure of your energy. Particularly extraneous Abilities will require the expenditure of Catabolic Points. Your Catabolic Points are refreshed at the conclusion of an Encounter.
 
-> Clarification: Sometimes it is ambiguous when an Encounter has concluded. Some examples may be, Once you have ended hostilities with a hoard of foes. Or you have successfully completed a heist and are safe at home. Or exploited the entirety of a facility. Consult the GM as to whether you can refresh your Catabolic Points.
+> Clarification: Sometimes it is ambiguous when an Encounter has concluded. Some examples may be, Once you have ended hostilities with a hoard of foes. Or you have successfully completed a heist and are safe at home. Or exploited the entirety of a facility. Consult the GM whether you can refresh your Catabolic Points.
 
 ### Body Parts
 
-The Mutated must connect limbs, organs, skin, teeth, and bone to their Body in order to become an effective killer, negotiator, explorer and beast hunter. Body Parts will grant the Mutated special abilities which will allow them to pull off fantastic tricks, daring feats, and dangerous manoeuvres. This is achieved by Activating  the Body Part which allows you to execute any of the Abilities on the Body Part provided you can pay the cost in Catabolic Points or satisfy any triggers.
+The Mutated must connect limbs, organs, skin, teeth, and bone to their Body in order to become an effective killer, negotiator, explorer and beast hunter. Body Parts will grant the Mutated special abilities which will allow them to pull off fantastic tricks, daring feats, and dangerous manoeuvres. This is achieved by Activating the Body Part which allows you to execute any of the Abilities on the Body Part provided you can pay the cost in Catabolic Points or satisfy any triggers.
 
-Having multiple Body Parts means that the Mutated will have more Abilities in their arsenal. It also increases the amount of Damage they can take as each Body Part has the 4 levels of Disrepair which are tracked individually. Any enemy creature has to reduce all the Mutated’s Body Parts to Broken before they can target the Body, and thus Defeat them. Similarly enemy creatures with more Body Parts are difficult to defeat as they also will have more Abilities, and can take more Damage.
+Having multiple Body Parts means that the Mutated will have more Abilities in their arsenal. It also increases the amount of Damage they can take as each Body Part has the 4 levels of Disrepair which are tracked individually. Any enemy creature has to reduce all the Mutated’s Body Parts to Broken before they can target the Body, and thus Defeat them. Similarly, enemy creatures with more Body Parts are difficult to defeat as they also will have more Abilities, and can take more Damage.
 
 The maximum number of Body Parts the Mutated can have is equal to the DRB Attribute.
 
@@ -48,7 +48,7 @@ In order to change your attributes you will need to acquire a Serum that can spl
 
 - Increase one Attribute by 1.
 - Decrease one Attribute by 1, increase another by 2
-- Gain an Additional 3 Catabolic Points.
+- Gain an Additional 2 Catabolic Points.
 
 ## Character Creation
 
@@ -58,8 +58,8 @@ In order to change your attributes you will need to acquire a Serum that can spl
 2. Distribute the following scores for each Attribute: 2, 2, 3, 3, 4.
 3. Roll 3d6, the highest result will be your max Catabolic Points.
 4. Determine your Predator & Prey
-    4.1. Predator is something your creature fears, it can be a literal creature that is hunting them, it can be an event from their past, or it could be a faction they don’t get along with. Either way this is something that your creature is attempting to avoid.
-    4.2. Prey is something your creature is attempting to achieve, it could be an item they are trying to get, a status within the community, or it can be a literal creature they enjoy hunting.
+    4.1. Predator is something your creature fears.
+    4.2. Prey is something your creature is attempting to achieve.
     4.3. Some examples are in the tables Predator and Prey
 5. Describe your relationship with the world
     5.1. This is how you see the world and how you interact with others external to your group. You can select one of the following under Relationships or you can make your own.
@@ -69,6 +69,24 @@ In order to change your attributes you will need to acquire a Serum that can spl
 #### Predator
 
 Something your creature fears, it can be a literal creature that is hunting them, it can be an event from their past, or it could be a faction they don’t get along with. Either way this is something that your creature is attempting to avoid.
+
+|d6|Predator|
+|---|--------------|
+| 1 | A colony in the local area is looking for you, you fear what they might do.|
+| 2 | You have a fear of small critters, and will avoid them at all costs.|
+| 3 | You fear being alone, and always want a companion when travelling.|
+| 4 | You crossed a powerful predator and can feel it stalking you at night.|
+| 5 | You owe a debt to a pack, they will come to collect it, and you better be able to pay.|
+| 6 | You took body parts from a creature and let it live, it wants them back.|
+
+|d6|Prey|
+|---|--------------|
+| 1 | Your pack is the most important thing, you don't know what you would do without it.|
+| 2 | You are after a particular plant that is only native to the area and very rare.|
+| 3 | You're a beast hunter, you live for the hunt.|
+| 4 | You were bested and left to die, they should have finished you off.|
+| 5 | You were abandoned as a youngling, and are trying to track down your family.|
+| 6 | You want to prove yourself to a colony, so that they may accept you into their ranks.|
 
 #### Prey
 
@@ -84,7 +102,7 @@ Everything is a struggle to achieve as people vye for power, resources and stren
 
 #### Mutualism
 
-You believe that what you give to the world comes back. People are genuinely helpful and if by the end of the day if you have helped benefit someone, tomorrow will be a good day for you. You are concerned with other people's well being just as others are concerned with yours. You hope that through mutually beneficial relationships the world will prosper.
+You believe that what you give to the world comes back. People are genuinely helpful and if by the end of the day if you have helped benefit someone, tomorrow will be a good day for you. You are concerned with other people's wellbeing just as others are concerned with yours. You hope that through mutually beneficial relationships the world will prosper.
 
 #### Commensalism
 
@@ -146,33 +164,33 @@ A creature is Defeated if all of its Body is reduced to a disrepair or Broken. A
 
 ### Revival
 
-A creature can be revived through a special ritual. When you are Defeated you are no longer targeted for attack, but can be dismembered and used for parts. If there are no allies nearby you may never be revived, doomed to be torn apart. However if your allies survive a battle that you were killed in they are able to revive you upon the fight's conclusion. In order to do this  they must collect a variety of parts and reassemble you in a ritual that takes 5 hours. As the ritual proceeds you take the Metamorphosis Ability for each part that you attach.
+A creature can be revived through a special ritual. When you are Defeated you are no longer targeted for attack, but can be dismembered and used for parts. If there are no allies nearby you may never be revived, doomed to be torn apart. However, if your allies survive a battle that you were killed in they are able to revive you upon the fight's conclusion. In order to do this they must collect a variety of parts and reassemble you in a ritual that takes 5 hours. As the ritual proceeds you take the Metamorphosis Ability for each part that you attach.
 
 ## Malfunctions
 
-- A strange noise is emitted from it every now and then
+- Sometimes a strange noise emits from it.
 - It is always limp and flops about when you move
 - It has a distinct smell that creatures can detect
-- It jolts about every now and then
+- It jolts about inconveniently.
 - It's an odd colour
 - Sometimes you can hear it make little screaming sounds
 - It falls off at the most inconvenient times
 - It has extra digits, skin flaps or bumps
 - The bones inside are brittle
 - It is lumpy
-- Sometimes pus seeps out of it
+- Sometimes pus seeps out of it.
 - It accidentally executes some of its Abilities
 - It looks broken but isn’t
-- Its double jointed
+- Its double-jointed
 - It looks really muscly
 - It has a few odd bends in it
 - Its extra furry
 - Sometimes it wiggles around
 - Sometimes it points toward something
-- It gets really really itchy
+- It gets really, really itchy
 - It has a weird taste
 - It tries to get the attention of random creatures
-- It gets really dry and cracked
+- It gets really dry and cracked.
 - Sometimes it refuses to work
 - It sweats profusely
 - It has some spikes jutting out

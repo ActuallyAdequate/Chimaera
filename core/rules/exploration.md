@@ -8,4 +8,4 @@ When faced with an encounter while exploring, the GM will frame what is occurrin
 
 ## Preventing Interruptions
 
-In order to reduce the challenges encountered while exploring, the Mutated should prepare themselves for exploration. This can occur by consulting guides or maps so they know where they are going and don't get lost. They should discuss what environment or weather they may encounter. What creatures roam the area if any. The more prepared the group is the less likely interruptions will occur, or fail.
+In order to reduce the challenges encountered while exploring, the Mutated should prepare themselves for exploration. This can occur by consulting guides or maps, so they know where they are going and don't get lost. They should discuss what environment or weather they may encounter. What creatures roam the area if any. The more prepared the group is the less likely interruptions will occur, or fail.
