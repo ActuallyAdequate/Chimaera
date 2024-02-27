@@ -38,7 +38,7 @@ The Mutated need Serum to get stronger in each of their attributes and accrue mo
 
 As the GM it is your role to provide challenging situations for the players to overcome, sometimes this may result in a death or two. The Mutated in Chimaera Syndrome can be revived when they are defeated. This should require time, and perhaps the party must return home to heal before trudging on. Don’t be too worried about making a cost for revival. The player will have already lost all their Body Parts which should be costly enough.
 
-### The Ta Da! Ability
+### The 'Ta Da!' Ability
 
 This Ability is intended to cover all bases for odd circumstances that are not directly related to the other abilities. It is important to ensure that this ability is used only when it makes sense, that is if a character could reasonably overcome a challenge despite the specific Abilities they have.
 
@@ -84,11 +84,11 @@ Events can occur in habitats, these may be random events or may be one of the en
 
 Whenever a Player is about to make a roll you can add a difficulty modifier to their roll. The difficulty represents the inherent challenge of a situation.  It is a modifier that will reduce the number of dice they can roll. This allows you to make some challenges be more inherently difficult. It is not advised that you use difficulty when a roll is combat based or used against a particular creature. It is more relevant when a die roll is to overcome a static challenge, such as retrieving information from memory or hiding in a lit room, or using the Ta Da! Ability.
 
-Difficulty | Number of Dice to Remove/Add Before Rolling
---|--
-Easy | +1
-Tricky | no change
-Challenging | -1
-Hard | -2
-Complicated | -3
-Impossible | Say: “No, that is not possible.”
+| Difficulty   | Number of Dice to Remove/Add Before Rolling |
+|--------------|---------------------------------------------|
+| Easy         | +1                                          |
+| Tricky       | no change                                   |
+| Challenging  | -1                                          |
+| Hard         | -2                                          |
+| Complicated  | -3                                          |
+| Impossible   | Say: “No, that is not possible.”            |

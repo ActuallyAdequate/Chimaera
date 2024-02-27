@@ -1,6 +1,6 @@
 # Socialising
 
-Socialising describes play outside of combat, and will involve roleplay and decision making. During this time Body Parts can be Activated at any time and there isn't a strict Turn order. Catabolic Points are still tracked during socialising so creatures should be mindful how much energy they expend until the end of the Encounter.
+Socialising describes play outside of combat, and will involve role-play and decision-making. During this time Body Parts can be Activated at any time and there isn't a strict Turn order. Catabolic Points are still tracked during socialising, so creatures should be mindful how much energy they expend until the end of the Encounter.
 
 ## What does Socialising look like?
 

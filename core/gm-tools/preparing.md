@@ -34,7 +34,7 @@ This will most likely be the first encounter for the group, it's the initial hoo
 
 The hook may be a request by a citizen of the world to help with an issue, or it may be an anonymous letter that draws them in, or the need for a new habitat. The initial hook doesn’t need to give away the presence of the Ghastly Mutated, it could be a request by the mayor to investigate missing livestock. Or it could be a personal issue to the group, maybe a threat to a companion.
 
-#### Ah so That's the Real Problem
+#### Ah. So That's the Real Problem
 
 This encounter will ensure that you have a way for the group to learn more about what they are going to fight so that they can gather the resources needed. The encounter will include details on possibly how the Ghastly Mutated fights, or what Environment they need to travel through, what are commonly known threats or dangers.
 
@@ -52,7 +52,7 @@ The most straightforward implementation is to ensure a merchant is available to 
 
 #### So How Do We Get There?
 
-This represents an opportunity to gather intel on the location of the Ghastly Mutated, as well as possible routes to the location so they can avoid certain dangers.
+This represents an opportunity to gather intel on the location of the Ghastly Mutated as well as possible routes to the location so that they can avoid certain dangers.
 
 If the group likes running in, perhaps they follow the noises of dangerous creatures only to stumble upon the lair of the Ghastly Mutated completely unprepared, Or if they seek out a guide perhaps they manage to locate a secret entrance to the cave. If the party takes it slow scanning the bush for disturbances perhaps they see a group of mutated creatures before the mutated creatures see them allowing them to set up an ambush.
 
@@ -79,7 +79,7 @@ Everything has been leading up to this, allow the group to have fun taking down 
 
 #### Got the Goodies/Yeah lets Scram
 
-Here lies two divergent paths. If the group was successful it's time to raid the creature for its parts, return home and be heralded for eliminating the scourge from the world. Or perhaps the group were a little too keen and a little too underprepared. When their bodies are falling apart, they may need a way out, a suspenseful escape, a secret passageway or final stand.
+Here lies two divergent paths. If the group was successful it's time to raid the creature for its parts, return home and be heralded for eliminating the scourge from the world. Or perhaps the group were a little too keen and a little too under prepared. When their bodies are falling apart, they may need a way out, a suspenseful escape, a secret passageway or final stand.
 
 ## Designing Encounters
 

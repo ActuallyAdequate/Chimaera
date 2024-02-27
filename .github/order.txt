@@ -4,6 +4,7 @@ core/lore/history.md
 ---
 core/rules/key-rules.md
 core/rules/character.md
+core/rules/habitat.md
 core/rules/environment.md
 core/rules/exploration.md
 core/rules/socialising.md

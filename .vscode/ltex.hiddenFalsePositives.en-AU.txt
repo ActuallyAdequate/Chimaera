@@ -1,0 +1,7 @@
+{"rule":"NON_ACTION_CONTINUOUS","sentence":"^\\QThe most important aspect of playing creatures in an encounter is knowing what Body Parts they have.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QHow do civilisations function without the need for tools?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QAye Aye's Fingers\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qd6 Predator\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qd6 Prey\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QBent Shovel\nDig Deep\nBlunt Knife\nShred ‘Em\nOld Baton\nBeat to Dust\nBrass Knuckles\nBeat to Dust\nAppear Innocent\nSwiss Army Knife\nPick A Lock\nDisarm Contraption\nRusted Lock Pick\nPick A Lock\nBomb Defusal Tools\nDisarm Contraption\nFirst Aid Kit\nRevitalised\nDefibrillator\nReborn\nElectrocute!\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_AU","sentence":"^\\QA Biopunk RPG about Mutation, see Chimaera - A Biopunk RPG - on itch.io for the dev updates and for when the final release comes out.\\E$"}

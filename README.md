@@ -4,6 +4,6 @@ A Biopunk RPG about Mutation, see [Chimaera - A Biopunk RPG -](https://actuallya
 
 ## Core
 
-The Core folder contains all the rules, lore, adventure and GMTools for running the core game.
+The Core folder contains all the rules, lore, adventure and GM Tools for running the core game.
 
 > Eventually there will be expansions and other cool stuff but for now let's calm down a bit.

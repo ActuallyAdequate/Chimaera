@@ -1,6 +1,6 @@
 # Chimaera
 
-Chimaera is a hack and slash roleplaying game set in an alternate world, where instead of fighting with sword and shield or casting magic, one must mutate their body with all manner of crude biological weaponry. Tack on extra limbs and become the arachnid monstrosity. Alter your brain and become a psychological freak. Will you tear through your enemies claiming their parts into a mound of trophies worn on your back, or will you carefully select what parts are sanitary to become a keen and precise instrument of death?
+Chimaera is a hack and slash role-playing game set in an alternate world, where instead of fighting with sword and shield or casting magic, one must mutate their body with all manner of crude biological weaponry. Tack on extra limbs and become the arachnid monstrosity. Alter your brain and become a psychological freak. Will you tear through your enemies claiming their parts into a mound of trophies worn on your back, or will you carefully select what parts are sanitary to become a keen and precise instrument of death?
 
 ## Playing Chimaera
 

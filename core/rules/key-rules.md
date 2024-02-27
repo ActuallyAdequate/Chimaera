@@ -6,7 +6,7 @@ Your Body is the base for the rest of your Body Parts. As long as you have your 
 
 ## Rolling
 
-When asked to Roll you will do so based on the requested number of 6 sided Dice (d6). If you roll at least one 6 that is a Success, on no 6s it is a Partial Fail and if more than half of the dice are a 6 it is a Super Success.
+When asked to Roll you will do so, based on the requested number of 6 sided Dice (d6). If you roll at least one 6 that is a Success, on no 6s it is a Partial Fail and if more than half of the dice are a 6 it is a Super Success.
 The minimum number of dice that can be rolled is 1. If you are requested to roll less than 1 dice, roll 1 die instead.
 
 ## Attributes
@@ -40,7 +40,7 @@ Sometimes an Ability will require the Mutated to be a certain distance from the 
 
 There are five Distances: Afar, Distant, Near, Close and Personal. In general Personal is occupying the same space, Close is within melee distance, Near is within walking distance and Distant is within running distance, and Afar within shooting range.
 
-In addition there are four Direction: Front, Left, Right, Back, which determine on which side of you an opposing creature may be.
+In addition, there are four Direction: Front, Left, Right, Back, which determine on which side of you an opposing creature may be.
 
 ### Falling
 
@@ -65,4 +65,4 @@ Half the damage will be dealt as Physical Damage, the other half dealt as Intern
 >
 > The Directions work by extending lines at 45 degree angles from the location of the creature. If falling between the lines then you are on that side of the creature, if you are on the 45 degree line then you have visibility of two sides.
 
-![direction & distance](core/media/dirdist.png)
+![Direction & Distance Image](core/media/dirdist.png)

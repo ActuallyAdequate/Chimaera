@@ -26,28 +26,28 @@ You can move to a spot Near you horizontally or vertically while in water. If yo
 ### Mushy Slam
 
 Tags: `Action React`
-You can hit something, even if you're not very good at it. When you slam your body you will select a target that is at a distance of Close or less. Roll your BRT. On A Success or Super Success you will deal 1 Physical Damage. On A Partial Fail you deal 1 Physical Damage but the opposing creature will be granted a React.
+You can hit something, even if you're not very good at it. When you slam your body you will select a target that is at a distance of Close or less. Roll your BRT. On A Success or Super Success you will deal 1 Physical Damage. On A Partial Fail you deal 1 Physical Damage, but the opposing creature will be granted a React.
 
 ### Restrain
 
 Tags: ``Action`
 When within Personal Space you can attempt to restrain them. Roll BRT or FLX. On a success or greater they gain the restrained condition until you do another ability that would require you to let go of the creature.
 
-### Ta da
+### Ta Da
 
 Tags: `Action React Time Cost`
-To do something that is not described by an ability you have but is determined as possible by you and the GM, you will take this ability. (The GM may restrict its possibility if they think you do not have the Body Parts to do it e.g. flying with no wings).  This ability may have a cost in CP, take a certain amount of Time or have a Difficulty applied per the GMs call. You and the GM will discuss what you're attempting to do and select a Body Part (or the Body itself) to justify the action, and an Attribute to roll. The GM will determine the result based on whether it was a Success, Super Success or Partial Fail.
+To do something that is not described by an ability you have but is determined as possible by you and the GM, you will take this ability. (The GM may restrict its possibility if they think you do not have the Body Parts to do it e.g. flying with no wings).  This ability may have a cost in CP, take a certain amount of Time or have a Difficulty applied per the Gm's call. You and the GM will discuss what you're attempting to do and select a Body Part (or the Body itself) to justify the action, and an Attribute to roll. The GM will determine the result based on whether it was a Success, Super Success or Partial Fail.
 
 ### Metamorphose
 
 Tags: `Action`
-This ability will allow you to attach new Body Parts to yourself. You will roll MUT. You can have a max number of Body Parts equal to your DRB. Otherwise you must remove a Body Part to add the new one.
+This ability will allow you to attach new Body Parts to yourself. You will roll MUT. You can have a max number of Body Parts equal to your DRB. Otherwise, you must remove a Body Part to add the new one.
 
 |||
------|-----
-Super Success | The Body Part is a complete match to your biology and chemistry. Its disrepair is Fine. Any Malfunctions are removed.
-Success | The Body Part successfully attaches to you. Its disrepair is Fine.
-Partial Fail | Your body experiences a rejection to the new Body Part, the Body Part is attached at disrepair of Scarred, but you must roll on the Malfunctions Table and add the result to the Body Part.
+|-----|-----|
+|Super Success | The Body Part is a complete match to your biology and chemistry. Its disrepair is Fine. Any Malfunctions are removed.|
+|Success | The Body Part successfully attaches to you. Its disrepair is Fine.|
+|Partial Fail | Your body experiences a rejection to the new Body Part, the Body Part is attached at disrepair of Scarred, but you must roll on the Malfunctions Table and add the result to the Body Part.|
 
 ## Specialised Abilities
 
@@ -60,9 +60,9 @@ You can launch a poisonous payload at someone within a Distance of Near. Roll yo
 
 |||
 |-----|-----|
-Super Success | Deal 1 Physical Damage and they gain the Poisoned condition.
-Success | Deal 1 Physical Damage.
-Partial Fail | Deal 1 Physical Damage and they gain a React.
+|Super Success | Deal 1 Physical Damage, and they gain the Poisoned condition.|
+|Success | Deal 1 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage, and they gain a React.|
 
 ### Acute Focus
 
@@ -76,9 +76,9 @@ Choose a target within Afar. Roll FLX.
 
 |||
 |-----|-----|
-Super Success | Deal 1 Physical Damage and they gain the Bleeding condition.
-Success | Deal 1 Physical Damage.
-Partial Fail | Deal 1 Physical Damage but they gain a React.
+|Super Success | Deal 1 Physical Damage, and they gain the Bleeding condition.|
+|Success | Deal 1 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage, but they gain a React.|
 
 ### Appear Innocent
 
@@ -97,9 +97,9 @@ Pound the enemy to a pulp. Select a target at a distance of Close. Roll BRT.
 
 |||
 |-----|-----|
-Super Success| Obliterate a Body Part.
-Success | Deal 1 Physical Damage
-Partial Fail | Deal 1 Physical Damage, the enemy is granted a React.
+|Super Success| Obliterate a Body Part.|
+|Success | Deal 1 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage, the enemy is granted a React.|
 
 ### Blinding Light
 
@@ -114,7 +114,7 @@ You can sense any movement within Near, even through obstructions.
 ### Block Sound
 
 Tags: `Free`
-You can close your ears so you can hear nothing.
+You can close your ears so that you can hear nothing.
 
 ### Box Kick
 
@@ -123,9 +123,9 @@ Kick a target within a distance of Close. Roll your BRT.
 
 |||
 |-----|-----|
-Super Success | Deal 1 Physical Damage, and push them back to a distance of Near and gain the Prone condition.
-Success | Deal 1 Physical Damage and push them back to a distance of Near.
-Partial Fail | Deal 1 Physical Damage and they gain a React.
+|Super Success | Deal 1 Physical Damage, and push them back to a distance of Near and gain the Prone condition.|
+|Success | Deal 1 Physical Damage and push them back to a distance of Near.|
+|Partial Fail | Deal 1 Physical Damage, and they gain a React.|
 
 ### Bristle Barrage
 
@@ -134,9 +134,9 @@ You have three bristles that can be launched from your body. Choose 3 targets wi
 
 |||
 |-----|-----|
-Super Success | Deal 1 Physical Damage. The bristle pins them to the wall or floor, they must spend an action tearing it out.
-Success | Deal 1 Physical Damage.
-Partial Fail | Deal 1 Physical Damage, they gain a React and can use the bristle as a Tool that deals 1 Physical Damage but will immediately Break upon use.
+|Super Success | Deal 1 Physical Damage. The bristle pins them to the wall or floor, they must spend an action tearing it out.|
+|Success | Deal 1 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage, they gain a React and can use the bristle as a Tool that deals 1 Physical Damage but will immediately Break upon use.|
 
 ### Buck
 
@@ -150,9 +150,9 @@ Choose a location that is within Distant. You move in a straight line to that lo
 
 |||
 |-----|-----|
-Super Success| Deal 1 Physical Damage AND they gain the Prone condition.
-Success | Deal 1 Physical Damage OR they gain the Prone condition. (your choice)
-Partial Fail | Deal 1 Physical Damage OR they gain the Prone condition. (their choice)
+|Super Success| Deal 1 Physical Damage AND they gain the Prone condition.|
+|Success | Deal 1 Physical Damage OR they gain the Prone condition. (your choice)|
+|Partial Fail | Deal 1 Physical Damage OR they gain the Prone condition. (their choice)|
 
 ### Choke
 
@@ -161,14 +161,14 @@ When you enter Personal space You can Roll FLX or BRT. They will gain the Restra
 
 |||
 |-----|-----|
-Super Success | They are Restrained; you can subtract your BRT or FLX from their escape rolls.
-Success | They are Restrained.
-Partial Fail | They are Restrained. They gain a React to attempt escape.
+|Super Success | They are Restrained; you can subtract your BRT or FLX from their escape rolls.|
+|Success | They are Restrained.|
+|Partial Fail | They are Restrained. They gain a React to attempt escape.|
 
 ### Climb Over
 
 Tags: `Action React`
-You are able to climb over walls provided there are small ledges to hook into. You can climb to a spot Near  you.
+You are able to climb over walls provided there are small ledges to hook into. You can climb to a spot Near you.
 
 ### Collect Part
 
@@ -197,9 +197,9 @@ When Higher than another creature and within a distance horizontally or Near, yo
 
 |||
 |-----|-----|
-Super Success | Sever a Body Part.
-Success | Deal 2 Physical Damage.
-Partial Fail | Deal 1 Physical Damage, you both gain the Prone condition.
+|Super Success | Sever a Body Part.|
+|Success | Deal 2 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage, you both gain the Prone condition.|
 
 ### Death Crunch
 
@@ -208,9 +208,9 @@ You lock your jaws on your target, damaging half their Body Parts rounded down. 
 
 |||
 |-----|-----|
-Super Success| Half of the Body Parts of the target are Severed
-Success | Half of the Body Parts of the target are Broken | Partial Fail
-Half of the Body Parts of the target are reduced to Broken, but they gain a React.
+|Super Success| Half of the Body Parts of the target are Severed.|
+|Success | Half of the Body Parts of the target are Broken. |
+|Partial Fail| Half of the Body Parts of the target are reduced to Broken, but they gain a React.|
 
 ### Deafening Roar
 
@@ -229,9 +229,9 @@ This ability grants expertise in disarming traps and machinery. Roll PSY.
 
 |||
 |-----|-----|
-Super Success | The contraption is disarmed. You may reset the trap to have a new trigger, and/or set off against the enemy.
-Success | The contraption is disarmed.
-Partial Fail | The contraption will go off. Everyone except you is granted a reaction right before the trap executes.
+|Super Success | The contraption is disarmed. You may reset the trap to have a new trigger, and/or set off against the enemy.|
+|Success | The contraption is disarmed.|
+|Partial Fail | The contraption will go off. Everyone except you is granted a reaction right before the trap executes.|
 
 ### Echolocate
 
@@ -270,9 +270,9 @@ Stab through the enemy. Select a target at a distance of close. Roll BRT.
 
 |||
 |-----|-----|
-Super Success | Deal 1 Physical Damage, If the enemy targeted has any Internal Organs, they also take 1 Physical Damage.
-Success | Deal 1 Physical Damage.
-Partial Fail | Deal 1 Physical Damage, they gain a React.
+|Super Success | Deal 1 Physical Damage, If the enemy targeted has any Internal Organs, they also take 1 Physical Damage.|
+|Success | Deal 1 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage, they gain a React.|
 
 ### Gotta Go
 
@@ -307,9 +307,9 @@ Whenever you take Physical Damage you redirect the impact. Roll MUT.
 
 |||
 |-----|-----|
-Super Success | Anyone within Near and on the Same Side of the impact takes 1 Damage, and anyone within Distant and on the Same Side gains the Prone condition.
-Success | Anyone Close and on the Same Side of the impact takes 1 Damage and anyone within Near and on the Same Side gains the Prone condition.
-Partial Fail | Anyone Near and on the Same Side of the impact gains the Prone condition. You also gain the Prone condition.
+|Super Success | Anyone within Near and on the Same Side of the impact takes 1 Damage, and anyone within Distant and on the Same Side gains the Prone condition.|
+|Success | Anyone Close and on the Same Side of the impact takes 1 Damage and anyone within Near and on the Same Side gains the Prone condition.|
+|Partial Fail | Anyone Near and on the Same Side of the impact gains the Prone condition. You also gain the Prone condition.|
 
 ### I’m Not too Sure
 
@@ -318,9 +318,9 @@ This action is when you engage the brain to think. Roll PSY.
 
 |||
 |----|----|
-Super Success | In addition to the Success result, you may learn additional information.
-Success | You learn what you want provided there is a way you could know.
-Partial Fail | You learn if you're on the right track or not.
+|Super Success | In addition to the Success result, you may learn additional information.|
+|Success | You learn what you want provided there is a way you could know.|
+|Partial Fail | You learn if you're on the right track or not.|
 
 ### Know the Truth
 
@@ -329,9 +329,9 @@ When you are told something you can discern the truth. Roll PSY.
 
 |||
 |-----|-----|
-Super Success | You know if the person was lying and may be able to determine the truth.
-Success | You know if the person was lying.
-Partial Fail | You know if the person was lying, but they know the lie didn’t work.
+|Super Success | You know if the person was lying and may be able to determine the truth.|
+|Success | You know if the person was lying.|
+|Partial Fail | You know if the person was lying, but they know the lie didn’t work.|
 
 ### Lucky Charm
 
@@ -355,20 +355,20 @@ This is the action for engaging in intellectual discussion. Choose a relevant ca
 
 |||
 |-----|-----|
-Super Success | Get an additional benefit to the Success results.
-Success | Confuse: Gains the Confused condition. Threaten: Will do one thing asked of them, that is not a threat to their own life OR gains the Frightened condition. Deceive: Will believe the lie told. Persuade: Will be convinced of the idea told.
-Partial Fail | You may both gain the Confused condition, be fact checked on a lie, or may Frighten the target.
+|Super Success | Get an additional benefit to the Success results.|
+|Success | Confuse: Gains the Confused condition. Threaten: Will do one thing asked of them, that is not a threat to their own life OR gains the Frightened condition. Deceive: Will believe the lie told. Persuade: Will be convinced of the idea told.|
+|Partial Fail | You may both gain the Confused condition, be fact checked on a lie, or may Frighten the target.|
 
 ### Manipulate the Weak
 
 Tags: `Action Cost (3cp)`
-You manipulate the weak of mind to do your bidding. If your PSY is greater than your target you may take the Success result. If your PSY is over double your target you may take the Super Success result. Otherwise roll PSY.
+You manipulate the weak-minded to do your bidding. If your PSY is greater than your target you may take the Success result. If your PSY is over double your target you may take the Super Success result. Otherwise, roll PSY.
 
 |||
 |-----|-----|
-Super Success | They believe anything you say, regardless of consequence, and will act on it.
-Success | They believe anything you say, and will act on it provided it is not a threat to their life or wellbeing to their knowledge.
-Partial Failure | They believe some of what you say, OR they believe you until they get a second opinion. They will only act on it if it does not negatively affect them to their knowledge.
+|Super Success | They believe anything you say, regardless of consequence, and will act on it.|
+|Success | They believe anything you say, and will act on it provided it is not a threat to their life or wellbeing to their knowledge.|
+|Partial Failure | They believe some of what you say, OR they believe you until they get a second opinion. They will only act on it if it does not negatively affect them to their knowledge.|
 
 ### Many Voices
 
@@ -388,7 +388,7 @@ You can mimic any sound that you have heard before. The sound is almost indistin
 ### Olfactory Inhibit
 
 Tags: `Action Cost 2cp`
-Anyone within Near of you that can smell you gains the Repulsed condition. Additionally any part that can smell you is Inhibited.
+Anyone within Near of you that can smell you gains the Repulsed condition. Additionally, any part that can smell you is Inhibited.
 
 ### Omnipotent Vision
 
@@ -422,14 +422,14 @@ You are able to pick mechanical locks. Roll FLX.
 
 |||
 |-----|-----|
-Super Success | You open the lock completely silently
-Success | The lock opens but anyone within a distance of Near will hear the lock.
-Partial Fail | The lock opens but anyone within a distance of Distant will hear it open.
+|Super Success | You open the lock completely silently.|
+|Success | The lock opens but anyone within a distance of Near will hear the lock.|
+|Partial Fail | The lock opens but anyone within a distance of Distant will hear it open.|
 
 ### Poison Resistance
 
 Tags: `Trigger`
-If you gain the Poisoned condition,If your MUT is greater than the Poisoner take No Damage otherwise take Half the Damage rounded down.
+If you gain the Poisoned condition, If your MUT is greater than the Poisoner take No Damage otherwise take Half the Damage rounded down.
 
 ### Pounce
 
@@ -438,9 +438,9 @@ You leap forward to dismember your enemies. If you are Near to your enemy you ca
 
 |||
 |-----|-----|
-Super Success | You Sever a Body Part
-Success | Deal 1 Physical Damage
-Partial Fail | Deal 1 Physical Damage, but they gain a React
+|Super Success | You Sever a Body Part.|
+|Success | Deal 1 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage, but they gain a React.|
 
 ### Powered Flight
 
@@ -454,9 +454,9 @@ Target a creature within a distance of Distant. Roll FLX.
 
 |||
 |-----|-----|
-Super Success | You pull them into a distance of at least Distant, and they gain the Prone condition if desired.
-Success | You pull them into a distance of at least Distant.
-Partial Fail | You pull them into a distance of at least Distant, and they are granted a React.
+|Super Success | You pull them into a distance of at least Distant, and they gain the Prone condition if desired.|
+|Success | You pull them into a distance of at least Distant.|
+|Partial Fail | You pull them into a distance of at least Distant, and they are granted a React.|
 
 ### Reborn
 
@@ -466,9 +466,9 @@ When your Body is Defeated, you can be reborn. Roll your MUT.
 
 |||
 |-----|-----|
-Super Success | You heal Half your Body Parts to Fine (Assuming you have any) and continue the fight.
-Success | You heal your Body to Fine.
-Partial Fail | You heal your Body to Fine, but Obliterate this part.
+|Super Success | You heal Half your Body Parts to Fine (Assuming you have any) and continue the fight.|
+|Success | You heal your Body to Fine.|
+|Partial Fail | You heal your Body to Fine, but Obliterate this part.|
 
 ### Regenerate
 
@@ -497,9 +497,9 @@ You are able to heal your Body Parts, provided they aren’t Obliterated or Seve
 
 |||
 |-----|-----|
-Super Success | Heal the Body Part to Fine, gain 2cp.
-Success | Heal the Body Part to Fine.
-Partial Failure | Heal the Body Part by 1 Disrepair.
+|Super Success | Heal the Body Part to Fine, gain 2cp.|
+|Success | Heal the Body Part to Fine.|
+|Partial Failure | Heal the Body Part by 1 Disrepair.|
 
 ### Rip Them Apart
 
@@ -508,9 +508,9 @@ Tear through your enemies. Select a target at a distance of Close. Roll your BRT
 
 |||
 |-----|-----|
-Super Success | Sever a body part.
-Success | Deal 1 Physical Damage
-Partial Fail | Deal 1 Physical Damage. The enemy is granted a React.
+|Super Success | Sever a body part.|
+|Success | Deal 1 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage. The enemy is granted a React.|
 
 ### Roly Poly
 
@@ -519,9 +519,9 @@ You curl up into a ball and move up to Distant. If you enter Personal space whil
 
 |||
 |-----|-----|
-Super Success | Deal 1 Internal Damage and they gain the Prone condition.
-Success | They gain the Prone condition.
-Partial Fail | You both gain the Prone condition.
+|Super Success | Deal 1 Internal Damage, and they gain the Prone condition.|
+|Success | They gain the Prone condition.|
+|Partial Fail | You both gain the Prone condition.|
 
 ### Second Wind
 
@@ -530,9 +530,9 @@ You can restore up to all your CP. Roll MUT.
 
 |||
 |-----|-----|
-Super Success | Regain all your CP.
-Success | Regain CP up to half your total CP.
-Partial Fail | Regain CP up to half your total CP, gain the Frightened condition.
+|Super Success | Regain all your CP.|
+|Success | Regain CP up to half your total CP.|
+|Partial Fail | Regain CP up to half your total CP, and gain the Frightened condition.|
 
 ### See It Coming
 
@@ -542,13 +542,13 @@ For an ability you can see occurring, describe how you interfere with it and spe
 ### Daring Robbery
 
 Tags: `Action`
-Your dextrous appendage is able to work its way into tight crevices to steal items from the unaware. Roll FLX.
+Your dexterous appendage is able to work its way into tight crevices to steal items from the unaware. Roll FLX.
 
 |||
 |-----|-----|
-Super Success | You are able to take any items from the location.
-Success | You are able to take a single item from the location.
-Partial Fail | Choose the from the following: You take the item anyway, but there's a consequence. You don’t get anything, but get a good feel of what's inside.
+|Super Success | You are able to take any items from the location.|
+|Success | You are able to take a single item from the location.|
+|Partial Fail | Choose from the following: You take the item anyway, but there's a consequence, or You don’t get anything, but get a good feel of what's inside.|
 
 ### Shine Bright
 
@@ -562,9 +562,9 @@ Slice through the skin of your enemies. Select a target at a distance of close. 
 
 |||
 |-----|-----|
-Super Success| Deal 1 Physical Damage. If the enemy targeted has any Skin or Fur, they also take a Physical Damage.
-Success | Deal 1 Physical Damage
-Partial Fail | Deal 1 Physical Damage, the target is granted a React.
+|Super Success| Deal 1 Physical Damage. If the enemy targeted has any Skin or Fur, they also take 1 Physical Damage.|
+|Success | Deal 1 Physical Damage.|
+|Partial Fail | Deal 1 Physical Damage, the target is granted a React.|
 
 ### Smuggle
 
@@ -578,15 +578,15 @@ Tags: `Time Action`
 This action is for entertaining and charming. Choose a relevant category. Roll the appropriate Attributes based on the category.
 
 - Convince (PSY + MUT)
--Entertain (PSY + FLX)
+- Entertain (PSY + FLX)
 - Impress (PSY + BRT)
 - Charm (PSY + DRB)
 
 |||
 |-----|-----|
-Super Success | Get an additional benefit to the Success result.
-Success | Convince: They are convinced of what you say. Charm: They will do one thing asked of them, that is not a threat to their own life.Entertain/Impress: Their Focus will change to you. Their opinion of you may increase.
-Partial Fail | You may be antagonised, ignored, called out or some other consequence.
+|Super Success | Get an additional benefit to the Success result.|
+|Success | Convince: They are convinced of what you say. Charm: They will do one thing asked of them, that is not a threat to their own life. Entertain/Impress: Their Focus will change to you. Their opinion of you may increase.|
+|Partial Fail | You may be antagonised, ignored, called out or some other consequence.|
 
 ### Squeeze Through
 
@@ -620,9 +620,9 @@ Choose a target that is at least Near you. Subtract their FLX from your MUT and 
 
 |||
 |-----|-----|
-Super Success | Deal 2 Physical Damage they gain the Alight condition.
-Success | They gain the Alight condition.
-Partial Fail | Deal 2 Physical Damage they gain a React.
+|Super Success | Deal 2 Physical Damage they gain the Alight condition.|
+|Success | They gain the Alight condition.|
+|Partial Fail | Deal 2 Physical Damage they gain a React.|
 
 ### Trade Places
 
@@ -631,9 +631,9 @@ Choose a target within a distance of Close and roll FLX.
 
 |||
 |-----|-----|
-Super Success | You swap places. Choose which way the opponent is facing. You also deal 1 Physical Damage or they gain the Prone condition.
-Success | You swap places. Choose which way the opponent is facing.
-Partial Fail | You swap places but the opponent gains a React.
+|Super Success | You swap places. Choose which way the opponent is facing. You also deal 1 Physical Damage, or they gain the Prone condition.|
+|Success | You swap places. Choose which way the opponent is facing.|
+|Partial Fail | You swap places but the opponent gains a React.|
 
 ### Toxic Spray
 
@@ -642,9 +642,9 @@ Choose a number of targets within a distance of Near and on a Single Side of you
 
 |||
 |-----|-----|
-Super Success | In addition to the Success results they also gain the Poisoned condition. Any part that can smell it is Inhibited.
-Success | They gain the Repulsed condition. Anyone except you within Near that can smell the spray also gains the Repulsed condition from them.
-Partial Fail | Both you and the target gain the Repulsed condition
+|Super Success | In addition to the Success results they also gain the Poisoned condition. Any part that can smell it is Inhibited.|
+|Success | They gain the Repulsed condition. Anyone except you within Near that can smell the spray also gains the Repulsed condition from them.|
+|Partial Fail | Both you and the target gain the Repulsed condition.|
 
 ### Vampiric Feed
 
@@ -658,14 +658,14 @@ Choose a target that is Near. Roll FLX you shoot a jet of water at them.
 
 |||
 |-----|-----|
-Super Success | Deal 1 Physical Damage, and gain the Prone condition or are pushed back 1 Distance.
-Success | Deal 1 Physical Damage and are pushed back 1 Distance.
-Partial Fail | They are pushed back 1 Distance.
+|Super Success | Deal 1 Physical Damage, and gain the Prone condition or are pushed back 1 Distance.|
+|Success | Deal 1 Physical Damage and are pushed back 1 Distance.|
+|Partial Fail | They are pushed back 1 Distance.|
 
 ### Wield A Tool
 
 Tags: `Trigger`
-Whenever using a Tool to achieve a task add an additional dice.
+Whenever using a Tool to achieve a task add a Die to your roll.
 
 ### Hypnotising Song
 
@@ -675,16 +675,16 @@ You make a beautiful song that sways the hearts of creatures. Anyone of your cho
 ### Why Tho?
 
 Tags: `Free`
-This is the action for self introspection, figuring something out or your knowledge. Roll the appropriate Attributes based on the category.
+This is the action for thinking, figuring something out or your knowledge. Roll the appropriate Attributes based on the category.
 
 - Biology (PSY + MUT) (Knowledge of how body parts work)
-- Introspection (PSY + PSY) (Knowledge of history, or religion)
+- Introspection (PSY + PSY) (Knowledge of emotions or behaviour)
 - Chemicals (PSY + DRB) (Knowledge of drugs)
 - Environment (PSY + BRT) (Knowledge of the Environment)
-- Solve (PSY + FLX) (Problem Solving)
+- Solve (PSY + FLX) (Problem-Solving)
 
 |||
 |-----|-----|
-Super Success | In addition to the Success result you may learn an additional bit of information.
-Success | You learn what you want provided there is a way you could know.
-Partial Fail | In addition to the Success result, your brain hurts, take 1 Internal Damage.
+|Super Success | In addition to the Success result you may learn an additional bit of information.|
+|Success | You learn what you want provided there is a way you could know.|
+|Partial Fail | In addition to the Success result, your brain hurts, take 1 Internal Damage.|

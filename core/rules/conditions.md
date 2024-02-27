@@ -2,7 +2,7 @@
 
 ## Frightened
 
-Your Focus changes to what is causing the Frightened condition. If you are within Near of the source of the Fright, you must spend your next Action getting to a distance of Distant using any Ability. If you are already Distant, you must turn so they are behind you.
+Your Focus changes to what is causing the Frightened condition. If you are within Near of the source of the Fright, you must spend your next Action getting to a distance of Distant using any Ability. If you are already Distant, you must turn, so they are behind you.
 
 ## Confused
 
@@ -30,7 +30,7 @@ When a creature is Prone, they cannot execute any Abilities that require physica
 
 ## Restrained
 
-A creature is Restrained for as long as whatever is Restraining them continues to Restrain them. The creature Restrained is unable to execute any Abilities that require physical movement until they can successfully make a BRT or FLX roll to escape as an Action. The Restrainer may activate other Body Parts (if it is a creature and not rope) but then the Restrain condition will immediately end.
+A creature is Restrained for as long as whatever is Restraining them continues to Restrain them. The creature Restrained is unable to execute any Abilities that require physical movement until they can successfully make a BRT or FLX roll to escape as an Action. The Restrainer may activate other Body Parts (if it is a creature and not rope) but then the Restrained condition will immediately end.
 
 ## Blind
 

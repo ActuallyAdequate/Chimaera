@@ -1,6 +1,6 @@
 # Environment
 
-Environment is a critical component of Chimaera. Not only are the horrid mutated beasts a threat, but so are the forests, the rains, the storms, and lands. The environment that an Encounter takes place can affect the difficulty of fighting, moving, and executing Abilities.
+Environment is a critical component of Chimaera. Not only are the horridly mutated beasts a threat, but so are the forests, the rains, the storms, and lands. The environment that an Encounter takes place can affect the difficulty of fighting, moving, and executing Abilities.
 
 Environment includes Weather and Events. Certain combinations of Weather will result in particular Events, while other Events occur randomly. Each Event may give creatures adverse Conditions or cause creatures to move in certain ways or take Damage. Some Events or the consequences of those Events can be ignored if the creature has access to certain Abilities. (These Abilities do not need to be executed in order to be able to ignore the effects of the Event, this also means Tools will not be damaged when used to ignore an Event’s effects.)
 
@@ -46,11 +46,11 @@ All creatures gain the Blind Condition and Freezing Condition while not in cover
 
 ### Snowing
 
-All creatures gain the Freezing Condition. If you don’t move each turn the snow packs you in and you must spend 2cp to dig yourself out at the start of your next turn, otherwise you are unable to move. (Ignore the cost if you have the Ability Dig Deep).
+All creatures gain the Freezing Condition. If you don’t move each turn the snow packs you in, and you must spend 2cp to dig yourself out at the start of your next turn, otherwise you are unable to move. (Ignore the cost if you have the Ability Dig Deep).
 
 ### Humid
 
-All creatures gain the Boiling Condition. If you moved last turn, you get overheated and it will cost you 2cp to move on your next turn. Otherwise you must wait another turn to move again at no cost. (Ignore the cost if you have the Ability Aquatic Breath or Hold Breath)
+All creatures gain the Boiling Condition. If you moved last turn, you get overheated, and it will cost you 2cp to move on your next turn. Otherwise, you must wait another turn to move again at no cost. (Ignore the cost if you have the Ability Aquatic Breath or Hold Breath)
 
 ### Rain Storm
 
@@ -58,7 +58,7 @@ If a creature wishes to fly, they must roll DRB on a Success or greater they can
 
 ### Hurricane
 
-All creatures gain the Deafened Condition and Blind Condition. Additionally all Eye and Ear Body Parts are Inhibited, on their turn for Free a creature can roll DRB to remove the Inhibited Condition on a Success or greater until their next turn.
+All creatures gain the Deafened Condition and Blind Condition. Additionally, all Eye and Ear Body Parts are Inhibited, on their turn for Free a creature can roll DRB to remove the Inhibited Condition on a Success or greater until their next turn.
 
 ### Earthquakes
 
@@ -74,7 +74,7 @@ Certain areas are on fire, if a creature spends any part of their turn in the sa
 
 ### Tornado
 
-A tornado occupies a certain area, each round it will move up to a distance of Near in a random direction. If the tornado hits a creature they a thrown in a random direction up to a distance of Distant. They must roll DRB and on Partial Fail they gain the Prone condition. (Ignore the Prone condition if they have the Ability Powered Flight).
+A tornado occupies a certain area, each round it will move up to a distance of Near in a random direction. If the tornado hits a creature they are thrown in a random direction up to a distance of Distant. They must roll DRB and on Partial Fail they gain the Prone condition. (Ignore the Prone condition if they have the Ability Powered Flight).
 
 ### Rot
 
@@ -102,7 +102,7 @@ Creatures gain the Blind Condition. All Eye Body Parts are Inhibited.
 
 ### Flash Flood
 
-Each round the wave will pass through in a random direction. Each creature that is not in cover must roll BRT. On a Partial Fail they are pushed as far in that direction until blocked. (Ignore the roll if you have the Ability Fast Swim.
+Each round the wave will pass through in a random direction. Each creature that is not in cover must roll BRT. On a Partial Fail they are pushed as far in that direction until blocked. (Ignore the roll if you have the Ability Fast Swim.)
 
 ### Sinking Pits
 
@@ -110,7 +110,7 @@ If you don’t move each turn then you sink into the ground, you must spend 2cp 
 
 ### Slippery Surface
 
-Whenever a creature moves, they must move the full distance they can. This means if a creature has an ability that allows them to move to a distance of Distant, if they choose to move (even if executing a different Body Part with a different moving Ability they must move to a the full Distant distance).
+Whenever a creature moves, they must move the full distance they can. This means if a creature has an ability that allows them to move to a distance of Distant, if they choose to move (even if executing a different Body Part with a different moving Ability they must move to the full Distant distance).
 
 ### Sticky Tar
 

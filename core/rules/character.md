@@ -1,12 +1,12 @@
 # The Mind, Body and Mutation
 
-## Wellbeing
+## Well-being
 
-A Mutated’s well being defines the general Attributes of your character, the physical, mental and social wellbeing of your character.
+A Mutated’s well-being defines the general Attributes of your character, the physical, mental and social wellbeing of your character.
 
 ### Attributes
 
-Attributes dictate the number of D6s rolled when using the attribute. They should range from 2 - 10.
+Attributes dictate the number of D6s rolled when using the attribute. They should range from 2 to 10.
 
 #### Mutability (MUT)
 
@@ -98,7 +98,7 @@ This is how you see the world and how you interact with the others external to y
 
 #### Competition
 
-Everything is a struggle to achieve as people vye for power, resources and strength. Everyone is responsible for their own success, and you struggle to rely on others, because you know deep down that everything has its price.
+Everything is a struggle to achieve as people vie for power, resources and strength. Everyone is responsible for their own success, and you struggle to rely on others, because you know deep down that everything has its price.
 
 #### Mutualism
 
@@ -106,7 +106,7 @@ You believe that what you give to the world comes back. People are genuinely hel
 
 #### Commensalism
 
-You are not one to draw attention to yourself. You work in the background ensuring that you can succeed at your goals, provided that you don’t impact others. You’ll take help where you can, and take advantage of each opportunity given to you. The world doesn’t owe you anything and you're well aware.
+You are not one to draw attention to yourself. Working in the background you ensure that you can succeed at your goals, provided that you don’t impact others. You’ll take help where you can, and take advantage of each opportunity given to you. The world doesn’t owe you anything, and you're well aware.
 
 #### Parasitism
 
@@ -118,13 +118,13 @@ The world is inherently a bad place. All it ever does is harm you and everyone i
 
 #### Mimicry
 
-You're a master of symbiosis. The world isn’t good or bad, it's only built of relationships that harm or benefit you. You will change your attitudes and mannerisms to best suit your environment.
+You're a master of symbiosis. The world isn’t good or bad, it's only built of relationships that harm or benefit you. You will change your attitudes and mannerisms to suit your environment.
 
 ## Breaking the Body
 
 ### Disrepair
 
-Each Body Part that you collect can become Broken, as it is used, fought with and damaged. Each time a Body Part takes Damage it increases its Disrepair from Fine, Scarred, Sceptic and Broken. Each level of Disrepair may result in a possible debuff.
+Each Body Part that you collect can become Broken, as it is used, fought with and damaged. Each time a Body Part takes Damage it increases its Disrepair from Fine, Scarred, Sceptic and Broken. Certain levels of Disrepair may result in a Malfunction.
 
 #### Fine
 

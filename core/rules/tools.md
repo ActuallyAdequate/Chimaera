@@ -1,6 +1,6 @@
 # Tools
 
-Tools are a relic of the old world. There are no longer advanced manufacturing and global supply chains so these devices have been left to slowly rust away. Tools grant temporary Abilities for the duration that they are possessed, you do not have to spend the Catabolic Points associated with the Abilities, however each time the Tool is Activated the Tool will take 1 Damage.
+Tools are a relic of the old world. There are no longer advanced manufacturing and global supply chains, so these devices have been left to slowly rust away. Tools grant temporary Abilities for the duration that they are possessed, you do not have to spend the Catabolic Points associated with the Abilities, however each time the Tool is Activated the Tool will take 1 Damage.
 
 - Bent Shovel
   - Dig Deep
