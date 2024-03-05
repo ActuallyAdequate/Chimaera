@@ -17,7 +17,7 @@ For each Action the player will Activate one of their Body Parts, allowing them 
 
 Depending on the outcomes of each Action, the opposition may be granted a React. Only one React is granted per Turn even if both Actions result in granting a React. It is possible for the same opposing creature to have multiple Reacts granted by different players’ Turns.
 
-Some Abilities rather than being activated as an Action are activated when some Trigger occurs. These can occur at any time, whether inbetween Turns, during an Action or before a React. When the Trigger occurs the ability is immediately resolved and then the Action or React is carried out from the point it was interrupted.
+Some Abilities rather than being activated as an Action are activated when some Trigger occurs. These can occur at any time, whether in between Turns, during an Action or before a React. When the Trigger occurs the ability is immediately resolved and then the Action or React is carried out from the point it was interrupted.
 
 ## Dealing Damage
 
