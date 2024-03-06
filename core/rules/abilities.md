@@ -13,15 +13,26 @@ Abilities are granted through the collection of Body Parts. In order to execute 
 
 Basic Abilities are granted to any creature regardless of the Body Parts they have.
 
+### Get Yourself Together
+
+Tags: `Action`
+You can remove one Condition.
+
+### Metamorphose
+
+Tags: `Action`
+This ability will allow you to attach new Body Parts to yourself. You will roll MUT. You can have a max number of Body Parts equal to your DRB. Otherwise, you must remove a Body Part to add the new one.
+
+|||
+|-----|-----|
+|Super Success | The Body Part is a complete match to your biology and chemistry. Its disrepair is Healthy. Any Malfunctions are removed.|
+|Success | The Body Part successfully attaches to you. Its disrepair is Healthy.|
+|Partial Fail | Your body experiences a rejection to the new Body Part, the Body Part is attached at disrepair of Healthy, but you must roll on the Malfunctions Table and add the result to the Body Part.|
+
 ### Move On
 
-Tags: `Action React`
-You can move to a spot up to Near of you.
-
-### Float
-
-Tags: `Action React Cost 1cp`
-You can move to a spot Near you horizontally or vertically while in water. If you run out of Catabolic Points you take 1 Internal Damage each turn.
+Tags: `Action React Cost 0-1cp`
+You can move to a spot up to Near of you on land or water. If underwater this action will cost 1 CP. Running out of CP will result in the Suffocating condition which can only be cleared by surfacing.
 
 ### Mushy Slam
 
@@ -37,17 +48,6 @@ When within Personal Space you can attempt to restrain them. Roll BRT or FLX. On
 
 Tags: `Action React Time Cost`
 To do something that is not described by an ability you have but is determined as possible by you and the GM, you will take this ability. (The GM may restrict its possibility if they think you do not have the Body Parts to do it e.g. flying with no wings).  This ability may have a cost in CP, take a certain amount of Time or have a Difficulty applied per the Gm's call. You and the GM will discuss what you're attempting to do and select a Body Part (or the Body itself) to justify the action, and an Attribute to roll. The GM will determine the result based on whether it was a Success, Super Success or Partial Fail.
-
-### Metamorphose
-
-Tags: `Action`
-This ability will allow you to attach new Body Parts to yourself. You will roll MUT. You can have a max number of Body Parts equal to your DRB. Otherwise, you must remove a Body Part to add the new one.
-
-|||
-|-----|-----|
-|Super Success | The Body Part is a complete match to your biology and chemistry. Its disrepair is Fine. Any Malfunctions are removed.|
-|Success | The Body Part successfully attaches to you. Its disrepair is Fine.|
-|Partial Fail | Your body experiences a rejection to the new Body Part, the Body Part is attached at disrepair of Scarred, but you must roll on the Malfunctions Table and add the result to the Body Part.|
 
 ## Specialised Abilities
 
@@ -466,14 +466,14 @@ When your Body is Defeated, you can be reborn. Roll your MUT.
 
 |||
 |-----|-----|
-|Super Success | You heal Half your Body Parts to Fine (Assuming you have any) and continue the fight.|
-|Success | You heal your Body to Fine.|
-|Partial Fail | You heal your Body to Fine, but Obliterate this part.|
+|Super Success | You heal Half your Body Parts to Healthy (Assuming you have any) and continue the fight.|
+|Success | You heal your Body to Healthy.|
+|Partial Fail | You heal your Body to Healthy, but Obliterate this part.|
 
 ### Regenerate
 
 Tags: `Time`
-If one of your body parts is Obliterated or Severed, you can regenerate it. This action is only possible outside of combat, and takes 30 minutes. Roll MUT, on a Partial Fail the limb gains a Malfunction. Heal it back to Fine.
+If one of your body parts is Broken, Obliterated or Severed, you can regenerate it. This action is only possible outside of combat, and takes 30 minutes. Roll MUT, on a Partial Fail the limb gains a Malfunction. Heal it back to Healthy.
 
 ### Repulse
 
@@ -497,8 +497,8 @@ You are able to heal your Body Parts, provided they aren’t Obliterated or Seve
 
 |||
 |-----|-----|
-|Super Success | Heal the Body Part to Fine, gain 2cp.|
-|Success | Heal the Body Part to Fine.|
+|Super Success | Heal the Body Part to Healthy, gain 2cp.|
+|Success | Heal the Body Part to Healthy.|
 |Partial Failure | Heal the Body Part by 1 Disrepair.|
 
 ### Rip Them Apart
@@ -649,7 +649,7 @@ Choose a number of targets within a distance of Near and on a Single Side of you
 ### Vampiric Feed
 
 Tags: `Action Cost 6cp`
-You draw the blood from your enemy. Choose a target that is Close. They gain the Bleeding condition. You can heal 1 of your Body Parts to a disrepair of Fine.
+You draw the blood from your enemy. Choose a target that is Close. They gain the Bleeding condition. You can heal 1 of your Body Parts by one Disrepair level.
 
 ### Water Jet
 

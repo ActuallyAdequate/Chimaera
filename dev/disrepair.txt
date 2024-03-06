@@ -1,0 +1,21 @@
+Flavour Names for Disrepair Levels:
+
+Body Parts:
+- Intact
+- Scarred
+- Sceptic
+
+Mechanical Parts
+- Operational
+- Scratched
+- Dysfunctional
+
+Plant Parts
+- Flourishing
+- Wilting
+- Decaying
+
+Tools
+- Functional
+- Dented
+- Faulty

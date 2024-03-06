@@ -124,9 +124,9 @@ You're a master of symbiosis. The world isn’t good or bad, it's only built of 
 
 ### Disrepair
 
-Each Body Part that you collect can become Broken, as it is used, fought with and damaged. Each time a Body Part takes Damage it increases its Disrepair from Fine, Scarred, Sceptic and Broken. Certain levels of Disrepair may result in a Malfunction.
+Each Body Part that you collect can become Broken, as it is used, fought with and damaged. Each time a Body Part takes Damage it increases its Disrepair from Healthy, Scarred, Sceptic and Broken.
 
-#### Fine
+#### Healthy
 
 The Body Part functions normally and is at full health
 
@@ -136,11 +136,11 @@ The Body Part is still functioning but appears bruised and cut.
 
 #### Sceptic
 
-The Body Part is heavily damaged puss seeping from deep wounds. Roll your DRB, on a Partial Fail Roll on the Malfunctions Table.
+The Body Part is heavily damaged puss seeping from deep wounds.
 
 #### Broken
 
-The Body Part no longer works and rests limp on your body. If you succeeded or didn't take the roll during the Sceptic disrepair do the following: Subtract your MUT from your DRB, and roll that many dice to a minimum of 1. On a Partial Fail roll on the Malfunctions Table.
+The Body Part no longer works and rests limp on your body.
 
 #### Special States of Disrepair
 
@@ -152,7 +152,7 @@ The Body Part is completely destroyed, it cannot be healed and is no longer atta
 
 ##### Severed
 
-The Body Part is torn off from the Body. It flies in the air and lands at your feet. Will you claim it for immediate use? When the Body Part is Severed it will fly in the air to the creature that severed it. They can then spend an Action to take the Metamorphosis Ability, to attach the severed piece at the Scarred disrepair level.
+The Body Part is torn off from the Body. It will fly in the air to the creature that severed it. They can then spend an Action to take the Metamorphosis Ability, to attach the severed piece at the Scarred disrepair level.
 
 > If playing with body part cards, the orientation of the cards will correspond to the level of disrepair:
 > Alternate with Paperclips
