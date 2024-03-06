@@ -53,15 +53,16 @@ In order to change your attributes you will need to acquire a Serum that can spl
 ## Character Creation
 
 1. Grab or Print a Body Board
+2. Roll 3d6, the highest result will be your max Catabolic Points.
+3. Select Body Parts
     1.1. Randomly select 3 Body Parts.
-    1.2. Keep 1 Body Part and discard the other 2 Body Parts.
-2. Distribute the following scores for each Attribute: 2, 2, 3, 3, 4.
-3. Roll 3d6, the highest result will be your max Catabolic Points.
-4. Determine your Predator & Prey
+    1.2. Keep 2 Body Part and discard the other 1 Body Parts.
+4. Distribute the following scores for each Attribute: 2, 3, 3, 4, 4.
+5. Determine your Predator & Prey
     4.1. Predator is something your creature fears.
     4.2. Prey is something your creature is attempting to achieve.
     4.3. Some examples are in the tables Predator and Prey
-5. Describe your relationship with the world
+6. Describe your relationship with the world
     5.1. This is how you see the world and how you interact with others external to your group. You can select one of the following under Relationships or you can make your own.
 
 ### Determine your Predator and your Prey
