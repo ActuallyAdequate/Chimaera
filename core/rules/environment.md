@@ -1,117 +1,141 @@
 # Environment
 
-Environment is a critical component of Chimaera. Not only are the horridly mutated beasts a threat, but so are the forests, the rains, the storms, and lands. The environment that an Encounter takes place can affect the difficulty of fighting, moving, and executing Abilities.
+Not only are the horridly mutated beasts a threat, but so are the forests, the rains, the storms, and lands. The environment that an Encounter takes place can affect the difficulty of fighting, moving, and executing Abilities.
 
-Environment includes Weather and Events. Certain combinations of Weather will result in particular Events, while other Events occur randomly. Each Event may give creatures adverse Conditions or cause creatures to move in certain ways or take Damage. Some Events or the consequences of those Events can be ignored if the creature has access to certain Abilities. (These Abilities do not need to be executed in order to be able to ignore the effects of the Event, this also means Tools will not be damaged when used to ignore an Event’s effects.)
+## Weather
 
-> **Weather**
-> Temperature: Hot Temperate Cold Freezing
-> Winds: Strong, Breezy, Still
-> Rain: Heavy, Showers, Dry
+The weather of Chimaera is volatile, each encounter the weather may change, and the most dangerous weather will threaten the Mutated. Weather is driven by the season, which will dictate the severe weather events. Additionally, there may be other random weather or environmental events.
 
-> **Events**
-> Earthquake, Lightning, Wildfire, Tornado, Rot, Toxic Sludge, Avalanche, Ocean Currents, Gust Pitch Darkness, Flash Flood, Sinking Pits, Slippery Surface, Sticky Tar
+### Severe Weather Effects
 
-```text
-Hot & Dry= Blazing Hot
-Freezing & Dry = Frigid Air
+**Dry Season:** Gain the Parched Condition
+**Monsoon Season:** Gain the Deafened Condition
+**Summer Season:** Gain the Boiling Condition
+**Winter Season:** Gain the Freezing Condition
 
-Hot & Strong = Dust/Sand Storm
-Freezing & Strong = Blizzard
+### Weather Events
 
-Heavy & Freezing = Snowing 
-Hot & Still = Humid
-
-Heavy & Temperate, Heavy & Cold = Rain Storm
-Strong & Temperate, Strong & Cold = Hurricane
-```
-
-## Environments
-
-### Blazing Hot
-
-All creatures gain the Boiling Condition.
-
-### Frigid Air
-
-All Creatures gain the Freezing Condition.
-
-### Dust/Sand Storm
-
-All creatures gain the Blind Condition while not in cover, Eye Body Parts are Inhibited, on their turn for Free a creature can roll DRB to remove the Inhibited Condition on a Success or greater until their next turn. If you end your turn not in cover you will take 1 Physical Damage.
-
-### Blizzard
-
-All creatures gain the Blind Condition and Freezing Condition while not in cover, Eye Body Parts are Inhibited, on their turn for Free a creature can roll DRB to remove the Inhibited Condition on a Success or greater until their next turn.
-
-### Snowing
+#### Blizzard
 
 All creatures gain the Freezing Condition. If you don’t move each turn the snow packs you in, and you must spend 2cp to dig yourself out at the start of your next turn, otherwise you are unable to move. (Ignore the cost if you have the Ability Dig Deep).
 
-### Humid
-
-All creatures gain the Boiling Condition. If you moved last turn, you get overheated, and it will cost you 2cp to move on your next turn. Otherwise, you must wait another turn to move again at no cost. (Ignore the cost if you have the Ability Aquatic Breath or Hold Breath)
-
-### Rain Storm
-
-If a creature wishes to fly, they must roll DRB on a Success or greater they can fly, but must end their turn on the ground. (Ignore the roll if you have the Ability Fast Swim)
-
-### Hurricane
-
-All creatures gain the Deafened Condition and Blind Condition. Additionally, all Eye and Ear Body Parts are Inhibited, on their turn for Free a creature can roll DRB to remove the Inhibited Condition on a Success or greater until their next turn.
-
-### Earthquakes
-
-At random times a tremor will occur, all creatures must roll FLX. On a Partial Fail, they gain the Prone Condition. Each round a structure may fall on a random area, all creatures in that area roll 2d6 if it's greater than your DRB score, take 3 Physical Damage.
-
-### Lightning
-
-Each round an area will be struck by lightning all creatures in that area roll DRB. On a Partial Fail they are hit by electricity taking 1 Internal Damage and 1 Physical Damage. (Ignore the damage if they have the Ability Electrocute!.)
-
-### Wildfire
-
-Certain areas are on fire, if a creature spends any part of their turn in the same place as the fire they gain the Alight Condition. Each round the fire might spread or move to a new area.
-
-### Tornado
-
-A tornado occupies a certain area, each round it will move up to a distance of Near in a random direction. If the tornado hits a creature they are thrown in a random direction up to a distance of Distant. They must roll DRB and on Partial Fail they gain the Prone condition. (Ignore the Prone condition if they have the Ability Powered Flight).
-
-### Rot
-
-All creatures’ Nose Body Parts are Inhibited, on their turn for Free a creature can roll DRB to remove the Inhibited Condition on a Success or greater until their next turn.  At the start of a creature's turn roll PSY, on a Partial Fail they gain the Repulsed Condition Focused on the source of the rot.
-
-### Toxic Sludge
-
-If Close to the Toxic Sludge, the creature must roll DRB on a Partial Fail. They inhale poisonous air taking 3 Internal Damage. (Ignore the Damage if you have the Ability Hold Breath or Aquatic Breath)
-
-### Avalanche
-
-At the start of a creature's turn they are hit by a structure and must roll FLX, or BRT to dodge or throw the falling structure. On a Partial Fail, they take 1 Physical Damage.
-
-### Ocean Currents
-
-Each time a creature swims they must roll BRT on a Partial Fail they are swept in a random Direction.
-
-### Gust
-
-Each time a creature flies they must roll BRT on a Partial Fail they are blown in a random Direction.
-
-### Pitch Darkness
+#### Dark Fog
 
 Creatures gain the Blind Condition. All Eye Body Parts are Inhibited.
 
-### Flash Flood
+#### Dust Storm
+
+All creatures gain the Blind Condition. If you don’t move each turn the dust packs you in, and you must spend 2cp to dig yourself out at the start of your next turn, otherwise you are unable to move. (Ignore the cost if you have the Ability Dig Deep).
+
+#### Fierce Winds
+
+The wind will blow in a random direction. All creatures and loose object that are not protected are blown in the direction of the wind, by a distance of near.
+
+#### Firenado
+
+Each round a random creature is selected, they gain the Alight Condition.
+
+#### Flash Flood
 
 Each round the wave will pass through in a random direction. Each creature that is not in cover must roll BRT. On a Partial Fail they are pushed as far in that direction until blocked. (Ignore the roll if you have the Ability Fast Swim.)
 
-### Sinking Pits
+#### Frostbite
 
-If you don’t move each turn then you sink into the ground, you must spend 2cp to dig yourself out at the start of your next turn, otherwise you take 2 Internal Damage. (Ignore the cost if you have the Ability Dig Deep, or Ignore the Damage if you have the Ability Hold Breath or Aquatic Breath).
+All Creatures gain the Freezing Condition. When moving, a creature must move to the full extent of the abilities distance due to slippery surfaces. For example if using the mad dash, you must move to a distance of distant, not near or close.
 
-### Slippery Surface
+#### Hail Storm
 
-Whenever a creature moves, they must move the full distance they can. This means if a creature has an ability that allows them to move to a distance of Distant, if they choose to move (even if executing a different Body Part with a different moving Ability they must move to the full Distant distance).
+All Creatures Gain the Freezing Condition. Each Round a random Creature that is not in cover is selected, and giant hail stone hits them dealing 1 Physical Damage.
 
-### Sticky Tar
+#### Heatwave
+
+All creatures gain the Boiling Condition. Each round Roll 1d6, if it rolls a 1 a fire starts.
+Certain areas catch on fire, if a creature spends any part of their turn in the same place as the fire they gain the Alight Condition.
+
+#### Mud Sludge
 
 Movement along the land costs 1 CP
+
+#### Rain Storm
+
+If a creature wishes to fly, they must roll DRB on a Success or greater they can fly, but must end their turn on the ground. (Ignore the roll if you have the Ability Fast Swim)
+
+#### Thunderstorm
+
+All Creatures Gain the Deafened Condition.
+Each round a random creature will be struck by lightning. They will take 1 internal damage. Anyone Close to them or connected by a conductive material will also be struck. (Ignore the damage if they have the Ability Electrocute!.)
+
+#### Tornado
+
+Each round a random creature is caught by the tornado and thrown in the air to a height of near. If the creature does not have the ability to fly or glide, it will land in the prone condition.
+
+#### Pollen Storm
+
+All Creatures gain the Anosmia Condition. The pollen causes a reaction to a random body part. This body part gains the Inhibited Condition.
+
+## Environmental Events
+
+Sometimes other events will occur not related to the weather but nonetheless dangerous.
+
+### Other Severe Events
+
+#### Neurotoxin Contamination
+
+All Creatures gain the Confused Condition.
+
+#### Eruption
+
+Ash spews across the area resulting in the Blind Condition, and the Suffocating Condition.
+
+#### Earthquake
+
+Each round a tremor will occur, all creatures must roll FLX. On a Partial Fail, they gain the Prone Condition.
+Roll 1d6, if it rolls a 1 then a structure falls on a random creature, all creatures near the selected creature roll 2d6 if it's greater than your DRB score, take 2 Physical Damage.
+
+#### Collapse
+
+At the start of a creature's turn they are hit by a structure and must roll FLX, or BRT to dodge or throw the falling structure. On a Partial Fail, they take 1 Physical Damage.
+
+#### Rot
+
+All creatures’ Nose Body Parts are Inhibited. Before the start of a creature's turn roll PSY, on a Partial Fail they gain the Repulsed Condition Focused on the source of the rot.
+
+#### Toxic Gas
+
+The creature must roll DRB on a Partial Fail. They inhale poisonous air and thus gain the Poisoned Condition. (Ignore the Condition if you have the Ability Hold Breath or Aquatic Breath)
+
+#### Current
+
+If it is Air currents it effects flying creatures, if it is ocean currents it effects swimming creatures. When moving they must roll BRT on a Partial Fail they are swept in a random Direction.
+
+#### Eclipse
+
+All Creatures gain the Blind Condition.
+
+#### Sinkhole
+
+If you don’t move each turn then you sink into the ground, you must spend 2cp to dig yourself out before the start of your next turn, otherwise you gain the Suffocating Condition. (Ignore the cost if you have the Ability Dig Deep, or Ignore the Condition if you have the Ability Hold Breath or Aquatic Breath).
+
+#### Sirens
+
+All Creatures gain the Deafened Condition.
+
+#### Floodlights
+
+Hiding or Camouflaging becomes a Hard task.
+
+#### Grease Spill
+
+Whenever a creature moves, they must move the full distance they can. This means if a creature has an ability that allows them to move to a distance of Distant, if they choose to move (even if executing a different Body Part with a different moving Ability), they must move to the full Distant distance.
+
+#### Sticky Tar
+
+Movement along the land costs 1 CP
+
+#### Electrical Surge
+
+Anyone Close to the Electrical Source will take 1 Internal Damage, Anyone Close to them or connected by a conductive material will also be struck. (Ignore the damage if they have the Ability Electrocute!.)
+
+#### Beautiful Rainbow
+
+Any Creature that can see the rainbow gains the Awe Condition.

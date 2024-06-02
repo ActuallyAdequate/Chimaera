@@ -16,7 +16,7 @@ Basic Abilities are granted to any creature regardless of the Body Parts they ha
 ### Get Yourself Together
 
 Tags: `Action`
-You can remove one Condition.
+You can remove one non-environmental Condition. That is a condition that is not from the weather or some other indefinite effect.
 
 ### Metamorphose
 

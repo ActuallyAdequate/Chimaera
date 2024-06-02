@@ -2,6 +2,10 @@
 
 Conditions are continuous issues that effect creatures. A condition is executed before a React, or before the creature's first Action on their turn. Conditions will remain until cleared with the _Get Yourself Together_ Action.
 
+## Anosmia
+
+The creature with Anosmia is unable to smell.
+
 ## Frightened
 
 Your Focus changes immediately to what is causing you to be Frightened. If you are within Near of the source of the Fright, you must get to a distance of Distant using any Ability. If you are already Distant, you must turn, so they are behind you.
@@ -38,7 +42,7 @@ The creature Restrained is unable to execute any Abilities that require physical
 
 A creature that is Blind is unable to see.
 
-## Deafened
+## Deafened'a
 
 A creature that is Deafened is unable to hear anything.
 
@@ -56,7 +60,7 @@ When you gain the Alight condition choose a Body Part that becomes on fire. At t
 
 ## Bleeding
 
-At the beginning of your next turn lose a number of Catabolic Points equal to your MUT.
+At the beginning of your next turnc lose a number of Catabolic Points equal to your MUT.
 
 ## Suffocating
 

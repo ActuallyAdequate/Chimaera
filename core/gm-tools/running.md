@@ -56,39 +56,18 @@ It is quite simple to create a variety of creatures for an encounter. This can b
 
 The most important aspect of playing creatures in an encounter is knowing what Body Parts they have. You can simply scrawl down what Body Parts and Abilities they have if needed, but it is important to keep track of how much each one is damaged to ensure an engaging fight as player’s can tactically take out the most dangerous Body Parts first. This can simply be done by marking a line next to each Body Part to represent the Disrepair. Once it has 3 lines its Broken and cannot be used anymore.
 
-> If playing with Body Part Cards, it is not recommended having each creature’s cards lined up in front of you as you may run out of cards for your players. Instead, you can just collect a couple of cards on hand to give out to players in the event they Sever your creatures Body Parts, and rely on the chance that most Body Parts get obliterated anyway.
+> Creatures do not have a Body Board when considering defeat. Creatures still have access to all the Basic Abilities, but when the Mutated take out each of the creatures body parts, consider the Creature Defeated.
+
+> Remember to put all non-obliterated Body Parts out on offer for the Mutated to take and use.
 
 ### Dealing and Taking Damage
 
 In order for your players to feel in control of their character it is important to give them agency over what Body Parts get damaged. Thus, when a player deals damage to one of your creatures allow them to target a specific Body Part. This allows them to neutralise threats that they are more vulnerable to first and will promote a more tactical and engaging combat experience. When your creatures damage a player, allow the player to choose what Body Part of theirs takes that damage. This means less thinking for you and more opportunity for decision-making for your players.
 
-## Managing The Habitat
+## Managing the Ghastly Mutated
 
-The Habitat is in primary control of the players, however each of the creatures that find a home there are subject to their own desires and motivation. Sometimes the Habitat can be under threat of attack as well, and will require the Mutated to protect it.
+The Ghastly Mutated should be an ever looming threat, regardless of whether it's a creature, facility, or some other machination or problem. Thus, it is important to make the presence of the Ghastly Mutated evident and problematic.
 
-### New Creatures
+A good way to do this is using the environment hex-flower. Have two markers one that tracks the location of the Mutated and one that tracks the location of the Ghastly Mutated. Whenever the Ghastly Mutated and the Mutated are on adjacent hexes, provide some event or effect that the ghastly Mutated as been or is near. When they share a hex, create a fearful encounter with Ghastly Mutated.
 
-While on expeditions the Mutated may find creatures they wish to join their habitat. New creatures can provide services for the Mutated when given a place to live and building to work in. If they aren't provided both those things they will not provide services. Creatures can also be hired to join the group on adventures, or ask for favours and provide the group new adventures.
-
-Creatures joining the habitat also need a den to live in, which can be built. However, if a creature is never given a den after asking the Mutated they will become unhappy and leave the Habitat. Similarly, if the group never helps out creatures need, they may leave seeking help elsewhere.
-
-### New Buildings
-
-Most building require the cost of the entire track of resources to build. Some options of buildings are suggested in the Habitat section, but feel free to invent more, and allow your players to dream up their own buildings, as they are the experts on what the Habitat needs.
-
-### Habitat Events
-
-Events can occur in habitats, these may be random events or may be one of the encounters in a Stanza. There are tools for generating random events in the GM Tools section. But events could be any of the following: Creature Favours, Invasion by another habitat, Severe Weather, The Ghastly Mutated, or Refugee Creatures seeking a new home.
-
-## Difficulty
-
-Whenever a Player is about to make a roll you can add a difficulty modifier to their roll. The difficulty represents the inherent challenge of a situation.  It is a modifier that will reduce the number of dice they can roll. This allows you to make some challenges be more inherently difficult. It is not advised that you use difficulty when a roll is combat based or used against a particular creature. It is more relevant when a die roll is to overcome a static challenge, such as retrieving information from memory or hiding in a lit room, or using the Ta Da! Ability.
-
-| Difficulty   | Number of Dice to Remove/Add Before Rolling |
-|--------------|---------------------------------------------|
-| Easy         | +1                                          |
-| Tricky       | no change                                   |
-| Challenging  | -1                                          |
-| Hard         | -2                                          |
-| Complicated  | -3                                          |
-| Impossible   | Say: “No, that is not possible.”            |
+The Ghastly Mutated Marker on the hex can also move around if desired to show it roaming, or you can keep it in one place if it's stationary. Placing the Ghastly Mutated Marker toward the bottom of the hex will make it more likely that the Mutated will find the Ghastly Mutated earlier.

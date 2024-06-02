@@ -1,7 +1,7 @@
 Flavour Names for Disrepair Levels:
 
 Body Parts:
-- Intact
+- Heallthy
 - Scarred
 - Sceptic
 

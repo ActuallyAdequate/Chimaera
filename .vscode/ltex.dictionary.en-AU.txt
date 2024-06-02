@@ -24,3 +24,5 @@ minatureless
 Defusal
 Biopunk
 Metamorphosise
+Anosmia
+Firenado
