@@ -26,7 +26,7 @@ A Measure of the raw physical strength you possess and your fierce demeanour
 
 #### Durability (DRB)
 
-A Measure of your resistance and endurance against metabolic challenges.
+A Measure of your resistance and endurance against metabolic challenges. The maximum number of body parts you can have
 
 ### Catabolism
 
@@ -48,16 +48,17 @@ In order to change your attributes you will need to acquire a Serum that can spl
 
 - Increase one Attribute by 1.
 - Decrease one Attribute by 1, increase another by 2
-- Gain an Additional 2 Catabolic Points.
+- Gain an Additional 2d6 take max Catabolic Points.
 
 ## Character Creation
 
 1. Grab or Print a Body Board
 2. Roll 3d6, the highest result will be your max Catabolic Points.
-3. Select Body Parts
-    1.1. Randomly select 3 Body Parts.
+3. Distribute the following scores for each Attribute: 2, 3, 3, 4, 4.
+4. Select Body Parts
+    1.1. Randomly select 4 Body Parts.
     1.2. Keep 2 Body Part and discard the other 1 Body Parts.
-4. Distribute the following scores for each Attribute: 2, 3, 3, 4, 4.
+
 5. Determine your Predator & Prey
     4.1. Predator is something your creature fears.
     4.2. Prey is something your creature is attempting to achieve.
