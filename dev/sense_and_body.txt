@@ -1,9 +1,26 @@
-The body has aspects that give the generic abilities
-- Sight (top)
-- smell/taste (top)
-- Hear (top)
-- Motor (right)
-- Organs (left)
+The body has aspects that give the basic abilities
 
-These also define the basics of what one can do (see hear smell taste, walk, pick up things, think, pump blood etc)
+- Sight
+- Hearing
+- Smell/taste
+- Thought
+
+- Muscular/Skeletal (Physical action, moving)
+- Integumentary (Protection, Touch, horns hair skin, other physical body parts)
+- Circulatory/Immune (Resistance, Toxins, Poisons disease type things)
+- Endocrine/Digestive/Respitory (Energy, Breathign underwater etc. Other organ abilities)
+
+Each body part will be tagged with one or more of these cateogries. and sometimes certain conditions will clear out one or more of those categories either entirely or will ask that one gets inhibited?
+
+When Getting a new body part you can choose to either mount it on an existing body parts or place it directly on the body.
+- Each body should have about two abilities? on it. Baiscally one when mounted on the body and one that modifies the action of when mounted on an existing body part?
+- Maybe not?
+
+When executing an action you select any body part that is mounted on the boduy and do all actions that are attached to that base body part. But it must be coherent. Up to the GM.
+
+
+Here is an example:
+The body part is poison gland. And it says on it something like, the poison excreted on the gland causes 1 damage over 2 minutes or something like that. Then the following would apply:
+1. If the gland is attached direclty to the body, the player could use an action to excrete poison and apply it to something or put it in food.
+2. If the gland was attached to legs. The player could run using the legs, and leave behind a trail of poison has a trap at the same time. all part of the 1 action.
 
