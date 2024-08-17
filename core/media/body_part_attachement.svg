@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 426 319" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-708,-1807)">
+        <g>
+            <rect x="708.661" y="1889.76" width="236.22" height="236.22" style="fill:rgb(74,64,82);"/>
+            <g transform="matrix(1,0,0,1,-35.3442,0)">
+                <rect x="992.126" y="1889.76" width="47.244" height="70.866" style="fill:rgb(177,188,31);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,34.0104,0)">
+                <rect x="992.126" y="1889.76" width="47.244" height="70.866" style="fill:rgb(100,51,55);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-36.6779,94.4882)">
+                <rect x="992.126" y="1889.76" width="47.244" height="70.866" style="fill:rgb(177,188,31);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,33.3436,94.4882)">
+                <rect x="992.126" y="1889.76" width="47.244" height="70.866" style="fill:rgb(100,51,55);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,94.4882,94.4882)">
+                <rect x="992.126" y="1889.76" width="47.244" height="70.866" style="fill:rgb(100,51,55);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-118.11,-82.6772)">
+                <rect x="992.126" y="1889.76" width="47.244" height="70.866" style="fill:rgb(177,188,31);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-212.598,-82.6772)">
+                <rect x="992.126" y="1889.76" width="47.244" height="70.866" style="fill:rgb(177,188,31);"/>
+            </g>
+            <text x="966.715px" y="2036.75px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:white;">1</text>
+            <text x="1036.07px" y="2037.59px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:white;">5</text>
+            <text x="1096.33px" y="2037.59px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:white;">6</text>
+            <text x="1037.28px" y="1943.11px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:white;">7</text>
+            <text x="769.789px" y="2025.78px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:white;">Body</text>
+            <text x="966.411px" y="1943.11px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:white;">2</text>
+            <text x="883.734px" y="1860.43px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:white;">3</text>
+            <text x="789.246px" y="1860.43px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:white;">4</text>
+        </g>
+    </g>
+</svg>
