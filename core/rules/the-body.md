@@ -27,8 +27,6 @@ Each Body Part can be attached directly to the Body or to another Body Part. The
 
 ![Body Part Attachements](../media/body_part_attachement.svg)
 
-The Body Parts 1-4 are Body Parts that can be Activated as they are directly attached to the Body.
-The Body Parts 5-7 are connected to other Body Parts and so are Activated indirectly.
-Activating Body Part 4 doesn't Activate any other Cards.
-Activating Body Part 2 will also Activate Body Part 7
-Activating Body Part 1 will also Activate Body Part 4 and 5
+- Body Parts 1-4 are directly Attached to the Body
+- Body parts 5-7 are Attached to other Body Parts
+- Body Parts 5 and 6 are Attached to Body Part 1

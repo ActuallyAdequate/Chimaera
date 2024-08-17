@@ -13,7 +13,7 @@ A single Action can only have one goal. The goal may be a single target or a par
 > Setting up a trap
 > Traversing a hazardous bridge
 
-## Activating Body Parts
+## Actions and Body Parts
 
 To execute the action you must Activate a Body Part that is directly connected to the Body. Other Body Parts that are connected to that Body Part are also Activated. The player must then describe how the Mutated use all this connected Body Parts to achieve the goal.
 
@@ -31,6 +31,12 @@ All Activated Body Parts must be used in service of the chosen goal for the Acti
 
 Additionally, all Body Parts in limb must be used when Activated. In the last example the Mutated wouldn't be able to just shoot the bristle and inject the poison. They must also determine how the wings are involved in the Action.
 
-### How Many Actions do I have?
+### Activating Body Parts
 
-The number of Actions the Mutated have on their turn depends on the Attachment of their Body Parts. Every Body Part that is Attached directly to the Body grants the Mutated an Action. This means that Having Many individual Body Parts Attached directly to the Body gives the Mutated a lot of Actions, but having Body Parts Attached to each other allows you to do more complicated Actions at the cost of having less Actions.
+![Body Part Attachements](../media/body_part_attachement.svg)
+
+- The Body Parts 1-4 are Body Parts that can be Activated as they are directly attached to the Body.
+- The Body Parts 5-7 are connected to other Body Parts and so are Activated indirectly.
+- Activating Body Part 4 doesn't Activate any other Body Parts.
+- Activating Body Part 2 will also Activate Body Part 7
+- Activating Body Part 1 will also Activate Body Part 4 and 5
