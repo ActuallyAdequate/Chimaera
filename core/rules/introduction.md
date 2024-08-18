@@ -10,7 +10,7 @@ This book will outline rules for the players, referred to as the Mutated, this w
 
 ## What Does A Session Look Like?
 
-A group of 2-6 friends will each create a Mutated creature that they will play during a session. The GM will play the many beasts and situations that the Mutated will encounter. Play will see players collecting Body Parts, throwing away broken ones and gaining all sorts of defects and issues. The Mutated can engage in brawls, espionage, politics, crawl through caves to fight evil slugs, or brave frigid mountains where frostbite causes their limbs to drop off.
+A group of friends will each create a Mutated creature that they will play during a session. The GM will play the many beasts and situations that the Mutated will encounter. Play will see players collecting Body Parts, throwing away broken ones and gaining all sorts of defects and issues. The Mutated can engage in brawls, espionage, politics, crawl through caves to fight evil slugs, or brave frigid mountains where frostbite causes their limbs to drop off.
 
 A usual session will see the Mutated asked to help with a problem plaguing their Habitat. Upon further investigation the Mutated will need to overcome dangerous weather, crazy creatures and unhelpful citizens. The source of the problem will be the Ghastly Mutated, a dangerous beast with overwhelming mutagenic power. The Mutated may attempt to bring an end to the Ghastly Mutated, either defeating it in glory or failing and cowering away licking their wounds.
 
