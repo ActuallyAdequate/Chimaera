@@ -13,7 +13,7 @@ There are two types of Injury you can receive Physical and Internal. Both Injuri
 
 ### Taking an Injury to a Body System
 
-When taking an Injury to a Body System you must choose one of the Body Systems that will take the Injury. That body system then becomes Inhibited and so no Body Parts that are a part of that system can be used. The Body Parts can still be Activated such as if it were part of limb or if it was directly connected to the Body with other Body Parts Attached to it. However, the abilities on the Inhibited Body Parts should be ignored.
+When taking an Injury to a Body System you must choose one of the Body Systems that will take the Injury. That body system then becomes Inhibited and so Body Parts that are a part of that system can't be used. The Body Parts can still be Activated such as if it were part of limb or if it was directly connected to the Body with other Body Parts Attached to it. However, the abilities on the Inhibited Body Parts should be ignored.
 
 <!-- Need an example graphic -->
 
