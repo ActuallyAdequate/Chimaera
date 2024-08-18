@@ -41,5 +41,5 @@ Some Abilities will allow for the following special states of Disrepair.
 
 >[!TIP]
 If playing with Body Part cards, the orientation of the cards will correspond to the level of disrepair:
-> ![Rotating Cards](core/media/damage-cards.png)
+> ![Rotating Cards](../media/damage-cards.png)
 > Alternatively you can use paperclips to mark the Disrepair level.

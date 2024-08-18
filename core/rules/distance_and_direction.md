@@ -24,7 +24,8 @@ Near: 1 Internal Damage and 1 Physical Damage
 Distant: 2 Internal Damage and 2 Physical Damage
 Afar: 3 Internal Damage and 3 Physical Damage
 
-> [!TIP] Mind And Matter
+> [!TIP]
+> **Mind And Matter**
 >
 > This method of Distance and Direction aims to facilitate minatureless play. If instead you wish to run a game with miniatures, to showcase some wacky and horrifying creatures, the Distances and Directions can be adapted as follows:
 >
