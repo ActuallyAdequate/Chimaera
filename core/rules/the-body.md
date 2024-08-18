@@ -25,8 +25,12 @@ The creatures of Chimaera are mutanous, always tearing off and re-fusing Body Pa
 
 Each Body Part can be attached directly to the Body or to another Body Part. The order of attachment may affect the resolution of your Actions. You must have at least one Body Part attached to your Body. You can attach as many Body Parts to your Body as you like. Each Body Part can only have one other Body Part attached to it, but that last attached Body Part can have another Body Part attached to it, allowing you to form limbs of many Body Parts.
 
-![Body Part Attachements](../media/body_part_attachement.svg)
+![Body Part Attachments](../media/body_part_attachement.svg)
 
 - Body Parts 1-4 are directly Attached to the Body
-- Body parts 5-7 are Attached to other Body Parts
+- Body Parts 5-7 are Attached to other Body Parts
 - Body Parts 5 and 6 are Attached to Body Part 1
+
+## Body Part Arrangement
+
+The Mutated may have multiple Body Parts Attached into a single limb or Attached separately to the Body. Limbs allow efficient use of Actions, enabling multiple Body Parts to Activate in the same Action. However, this reduces the amount of Injuries you can take. For example, if wings and a poison gland are part of the same limb, you could fly to and poison a creature in a single Action. However, if the wings are Severed off so to would the Poison Gland. If they're separate, the wings could be Severed and the Poison Gland would remain, but it would take two Actions to Activate both Body Parts.

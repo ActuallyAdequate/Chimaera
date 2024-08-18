@@ -30,4 +30,7 @@ THe bOdy will have some Body parts direclty attached and chained of themselves
 Limb 1- All the senses and brain
 Limb 2 - .....
 
-1. each Limb grants 1 Action
+Goof thing about many Body Parts in one Limb means Need fewer actions
+Good Thing about many Body Parts means more Healthy
+
+When Taking Damage can either inhibit a system.. or ... Damage A Direclty Connected Body Part. All attached Body Parts get removed when that one gets removed

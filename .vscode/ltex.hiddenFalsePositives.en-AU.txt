@@ -6,3 +6,7 @@
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QBent Shovel\nDig Deep\nBlunt Knife\nShred ‘Em\nOld Baton\nBeat to Dust\nBrass Knuckles\nBeat to Dust\nAppear Innocent\nSwiss Army Knife\nPick A Lock\nDisarm Contraption\nRusted Lock Pick\nPick A Lock\nBomb Defusal Tools\nDisarm Contraption\nFirst Aid Kit\nRevitalised\nDefibrillator\nReborn\nElectrocute!\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_AU","sentence":"^\\QA Biopunk RPG about Mutation, see Chimaera - A Biopunk RPG - on itch.io for the dev updates and for when the final release comes out.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEach creature that is not in cover must roll BRT.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QBody Parts 1-4 are directly Attached to the Body\nBody parts 5-7 are Attached to other Body Parts\nBody Parts 5 and 6 are Attached to Body Part 1\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QBody Parts 1-4 are directly Attached to the Body\nBody parts 5-7 are Attached to other Body Parts\nBody Parts 5 and 6 are Attached to Body Part 1\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QBody Parts 1-4 are directly Attached to the Body\nBody Parts 5-7 are Attached to other Body Parts\nBody Parts 5 and 6 are Attached to Body Part 1\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QBody Parts 1-4 are directly Attached to the Body\nBody Parts 5-7 are Attached to other Body Parts\nBody Parts 5 and 6 are Attached to Body Part 1\\E$"}

@@ -1,14 +1,14 @@
 Flavour Names for Disrepair Levels:
 
 Body Parts:
-- Heallthy
+- Healthy
 - Scarred
 - Sceptic
 
 Mechanical Parts
 - Operational
 - Scratched
-- Dysfunctional
+- Rusted
 
 Plant Parts
 - Flourishing
@@ -19,3 +19,9 @@ Tools
 - Functional
 - Dented
 - Faulty
+
+
+Special Disrepair for Mechanical or Tools
+
+Malfunctioning
+-> Causes trouble like attackst he user or something.
