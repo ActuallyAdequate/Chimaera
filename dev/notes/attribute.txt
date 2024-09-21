@@ -1,0 +1,5 @@
+Not sure if I want rolling but if i need attributes should od the following
+
+Mutability (Everything to do with attack, power, stength/dexterity)
+Psyche (Everything to do with cleverness, knowledge, and reason)
+Resilience (Everything to do with defence, resistance, endurance)
