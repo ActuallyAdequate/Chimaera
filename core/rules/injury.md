@@ -2,7 +2,7 @@
 
 ## Injury
 
-When the Mutated gains an injury whether from an attack or an accident, they must make a choice. The mutated can either take an injury to a Body System, this will temporarily but significantly inhibit the use of multiple Body Parts for the remainder of the encounter. Or they take an injury to their Body, which permanently damages them and risks them losing Body Parts.
+When the Mutated gains an injury whether from an attack or an accident, they must choose which Body Part they want to injure. Similiarily, when dealing an injury to another creature they get to choose which Body Part to Injure.
 
 ### Injury Types
 
@@ -10,12 +10,6 @@ There are two types of Injury you can receive Physical and Internal. Both Injuri
 
 - **Physical:** Represents brute injuries such as scratches, breaks, and punches
 - **Internal:** Represents illness injuries such as poisons, diseases, and ruptures
-
-### Taking an Injury to a Body System
-
-When taking an Injury to a Body System you must choose one of the Body Systems that will take the Injury. That body system then becomes Inhibited and so Body Parts that are a part of that system can't be used. The Body Parts can still be Activated such as if it were part of limb or if it was directly connected to the Body with other Body Parts Attached to it. However, the abilities on the Inhibited Body Parts should be ignored.
-
-<!-- Need an example graphic -->
 
 ### Taking an Injury to the Body
 

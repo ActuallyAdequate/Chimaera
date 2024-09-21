@@ -4,17 +4,33 @@ Each Body Part has three elements which describe its behaviour.
 
 1. **Body System:** The Body System it belongs to.
 2. **Disrepair:** The Disrepair of the Body Part.
-3. **Abilities:** Descriptions of the Abilities it has.
+3. **Description:** A description of the Body Part that can be used to help describe how it is used in an Action.
+4. **Abilities:** Descriptions of how the body part interacts with rules such as movement, Injuries and Conditions.
 
 <!-- Good to have an infographic here -->
 
-## Abilities
+## Key Terms
 
-Body Parts grant Abilities that allow the Mutated to do brutal attacks, cool tricks, and devious feats. Abilities are categorised into different types which are identified by the symbol adjacent to the Ability on the Body Part.
+### Reach
 
-- **Activated (A):** The Ability's effect occurs when the Body Part is Activated.
-- **Trigger (T):** The Ability's effect occurs when a certain condition Triggers it.
-- **Modifier (M):** The Ability's effect is ongoing.
-- **Prolonged (P):** The Ability takes minutes, hours, or days to execute.
+Reach specify the distance that a Body Part's Ability effects. Such as being able to launch something to a distance of Near. Or Spikes reaching a distance of Personal Space. This means that the target must be within that distance to be affected.
 
-<!-- Good to have an inforgraphic here -->
+Attaching a Body Part to another Body Part inherits that Reach of the Body Part it is attached to, unless the attached Body Part also specifies its own Reach. For example Attaching a Body Part that doesn't specify its own Reach will have the default reach of the Body of Close. But if it specifies its own Reach such as Personal Space then it has a Reach of Personal Space.
+
+### Succeed
+
+When an Ability says you Succeed at a particular activity this means you can do so without being challenged as per the Hazard rules.
+
+### Grant and Ignore Conditions
+
+Some Abilities grant conditions on other creatures. When Activated the target will gain the Condition according to the Conditions rules
+
+Ignoring Conditions is done continuously and doesn't require Activating the Body Part. When a Condition would be applied to you that you can Ignore. Then you don't have the Condition.
+
+### Take and Deal an Injury
+
+When Dealing an Injury choose which Body Part of the Target you would like to attack, then increase its Disrepair by the amount of Injuries dealt.
+
+When Taking and Injury choose which of your Body Parts takes the Injury, and increase its Disrepair by the amount of Injuries dealt.
+
+Some Body Part allows you to ignore 1 more injuries of a certain type either Physical or Internal. This allows you to reduce the number of Injuries taken each time you are targeted by another's Action. For example if a Creature Activates two Body Parts, That are part of a limb, that both Deal 1 Physical Damage, and you have a Body Part that allows you to Ignore 1 Physical Damage. Then You will only take 1 Physical Damage.

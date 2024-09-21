@@ -28,7 +28,7 @@ To execute the action you must Activate a Body Part that is directly connected t
 >[!IMPORTANT]
 > Notice how the order of the Body Parts effect the way the actions is resolved. When the Cheetah Legs are Activated, the action is modified by the Poison Gland by leaving a trail behind. However, when it is the Poison Gland that is directly connected to the Body, the action is modified by the Cheetah Legs resulting in rolling globules of poison.
 
-### Activating Body Parts
+## Activating Body Parts
 
 ![Body Part Attachments](../media/body_part_attachement.svg)
 
