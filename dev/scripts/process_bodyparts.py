@@ -5,7 +5,7 @@ import re
 import argparse
 
 # Function to convert YAML data to CSV
-def yaml_to_csv(yaml_file, output_folder):
+def yaml_to_tsv(yaml_file, output_folder):
     # Load the YAML file
     with open(yaml_file, "r") as file:
         data_dict = yaml.safe_load(file)
@@ -18,8 +18,8 @@ def yaml_to_csv(yaml_file, output_folder):
     # Determine the max number of abilities in any entry
     max_abilities = max(len(entry.get("abilities", [])) for entry in entries)
     
-    # Create a list for CSV rows
-    csv_data = []
+    # Create a list for TSV rows
+    tsv_data = []
     
     for entry in entries:
         row = {
@@ -31,10 +31,10 @@ def yaml_to_csv(yaml_file, output_folder):
         for i, ability in enumerate(entry.get("abilities", []), 1):
             row[f"ability{i}"] = ability
         
-        csv_data.append(row)
+        tsv_data.append(row)
     
     # Convert to a DataFrame
-    df = pd.DataFrame(csv_data)
+    df = pd.DataFrame(tsv_data)
     
     # Ensure all ability columns are present up to max_abilities
     for i in range(1, max_abilities + 1):
@@ -43,11 +43,11 @@ def yaml_to_csv(yaml_file, output_folder):
     
     # Create output CSV file path
     yaml_filename = os.path.basename(yaml_file).replace(".yaml", "").replace(".yml", "")
-    output_csv = os.path.join(output_folder, f"{yaml_filename}_output.csv")
+    output_tsv = os.path.join(output_folder, f"{yaml_filename}_output.tsv")
     
     # Write to CSV
-    df.to_csv(output_csv, index=False)
-    print(f"Data successfully written to {output_csv}")
+    df.to_csv(output_tsv, index=False, sep='\t')
+    print(f"Data successfully written to {output_tsv}")
     
     return entries
 
@@ -224,7 +224,7 @@ if __name__ == "__main__":
         os.makedirs(args.output_folder)
     
     # Run the conversion to CSV and return the entries
-    entries = yaml_to_csv(args.yaml_file, args.output_folder)
+    entries = yaml_to_tsv(args.yaml_file, args.output_folder)
     
     # Generate a report based on the processed entries
     generate_report(entries, args.output_folder, args.yaml_file)
