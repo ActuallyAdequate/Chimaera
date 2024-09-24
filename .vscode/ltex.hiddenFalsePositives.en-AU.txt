@@ -10,3 +10,4 @@
 {"rule":"PHRASE_REPETITION","sentence":"^\\QBody Parts 1-4 are directly Attached to the Body\nBody parts 5-7 are Attached to other Body Parts\nBody Parts 5 and 6 are Attached to Body Part 1\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QBody Parts 1-4 are directly Attached to the Body\nBody Parts 5-7 are Attached to other Body Parts\nBody Parts 5 and 6 are Attached to Body Part 1\\E$"}
 {"rule":"PHRASE_REPETITION","sentence":"^\\QBody Parts 1-4 are directly Attached to the Body\nBody Parts 5-7 are Attached to other Body Parts\nBody Parts 5 and 6 are Attached to Body Part 1\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QWhen doing so Creature with the highest number of 'thought' body Parts should go first, this represents their mental alertness to situations.\\E$"}
