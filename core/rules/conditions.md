@@ -28,7 +28,7 @@ The creature Charming you can select what Body Part is Activated on your Action
 
 ### Confused
 
-On you Action you must Activate a random Body Part
+The Thought Body System is inhibited. This means immediately that no Body Parts that are a member of the Thought System can be Activated.
 
 ### Deafened
 
