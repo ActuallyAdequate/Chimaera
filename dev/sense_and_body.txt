@@ -1,9 +1,0 @@
-The body has aspects that give the generic abilities
-- Sight (top)
-- smell/taste (top)
-- Hear (top)
-- Motor (right)
-- Organs (left)
-
-These also define the basics of what one can do (see hear smell taste, walk, pick up things, think, pump blood etc)
-
