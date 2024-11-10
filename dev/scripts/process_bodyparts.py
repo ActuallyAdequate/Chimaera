@@ -10,13 +10,12 @@ def yaml_to_tsv(yaml_file, output_folder):
     with open(yaml_file, "r") as file:
         data_dict = yaml.safe_load(file)
 
-    # Extract body_parts section and concatenate if there are other sections
-    entries = []
-    if 'body_parts' in data_dict:
-        entries.extend(data_dict['body_parts'])
-    
-    # Determine the max number of abilities in any entry
-    max_abilities = max(len(entry.get("abilities", [])) for entry in entries)
+    # Extract body_parts section
+    entries = data_dict.get("body_parts", [])
+
+    # Determine the max number of abilities in each category
+    max_activated = max(len(entry.get("activated_abilities", [])) for entry in entries)
+    max_passive = max(len(entry.get("passive_abilities", [])) for entry in entries)
     
     # Create a list for TSV rows
     tsv_data = []
@@ -27,31 +26,42 @@ def yaml_to_tsv(yaml_file, output_folder):
             "system": entry.get("system", ""),
             "description": entry.get("description", "")
         }
-        # Add abilities columns
-        for i, ability in enumerate(entry.get("abilities", []), 1):
-            row[f"ability{i}"] = ability
+        
+        # Add activated abilities columns
+        for i, ability in enumerate(entry.get("activated_abilities", []), 1):
+            row[f"activated_ability{i}"] = ability
+        
+        # Add passive abilities columns
+        for i, ability in enumerate(entry.get("passive_abilities", []), 1):
+            row[f"passive_ability{i}"] = ability
         
         tsv_data.append(row)
     
     # Convert to a DataFrame
     df = pd.DataFrame(tsv_data)
     
-    # Ensure all ability columns are present up to max_abilities
-    for i in range(1, max_abilities + 1):
-        if f"ability{i}" not in df.columns:
-            df[f"ability{i}"] = ""
+    # Ensure all ability columns are present up to max_activated and max_passive
+    for i in range(1, max_activated + 1):
+        if f"activated_ability{i}" not in df.columns:
+            df[f"activated_ability{i}"] = ""
+    for i in range(1, max_passive + 1):
+        if f"passive_ability{i}" not in df.columns:
+            df[f"passive_ability{i}"] = ""
     
-    # Create output CSV file path
+    # Create output TSV file path
     yaml_filename = os.path.basename(yaml_file).replace(".yaml", "").replace(".yml", "")
     output_tsv = os.path.join(output_folder, f"{yaml_filename}_output.tsv")
     
-    # Write to CSV
+    # Write to TSV
     df.to_csv(output_tsv, index=False, sep='\t')
     print(f"Data successfully written to {output_tsv}")
     
     return entries
 
 # Function to generate a text report
+import os
+import re
+
 def generate_report(entries, output_folder, yaml_file):
     # Initialize dictionaries to store system stats and various condition stats
     total_body_parts = len(entries)
@@ -71,18 +81,12 @@ def generate_report(entries, output_folder, yaml_file):
         title = entry.get("title", "Unnamed Body Part")
         
         # Add the title to the appropriate system category
-        if system in system_stats:
-            system_stats[system].append(title)
-        else:
-            system_stats[system] = [title]
+        system_stats.setdefault(system, []).append(title)
         
-        # Get stats based of abilities
-        abilities = entry.get("abilities", [])
+        # Gather all abilities from both activated and passive abilities
+        abilities = entry.get("activated_abilities", []) + entry.get("passive_abilities", [])
         num_of_abilities = len(abilities)
-        if num_of_abilities in ability_stats:
-            ability_stats[num_of_abilities].append(title)
-        else:
-            ability_stats[num_of_abilities] = [title]
+        ability_stats.setdefault(num_of_abilities, []).append(title)
 
         for ability in abilities:
             ability = ability.lower()
@@ -91,35 +95,18 @@ def generate_report(entries, output_folder, yaml_file):
             match = re.search(r'(\w+)\s+condition', ability, re.IGNORECASE)
             if match:
                 condition_type = match.group(1)
-                if grants_condition:
-                    if condition_type in condition_stats["granted"]:
-                        condition_stats["granted"][condition_type].append(title)
-                    else:
-                        condition_stats["granted"][condition_type] = [title]
-                else:
-                    if condition_type in condition_stats["ignored"]:
-                        condition_stats["ignored"][condition_type].append(title)
-                    else:
-                        condition_stats["ignored"][condition_type] = [title]
+                condition_category = "granted" if grants_condition else "ignored"
+                condition_stats[condition_category].setdefault(condition_type, []).append(title)
 
-
-            # Check for physical injury
+            # Check for specific injuries and keywords
             if re.search(r'physical injury', ability, re.IGNORECASE) and re.search(r'deal', ability, re.IGNORECASE):
                 injury_stats["physical_injury"].append(title)
-
-            # Check for internal injury
             if re.search(r'internal injury', ability, re.IGNORECASE) and re.search(r'deal', ability, re.IGNORECASE):
                 injury_stats["internal_injury"].append(title)
-
-            # Check for severed injury
             if re.search(r'injury', ability, re.IGNORECASE) and re.search(r'severed', ability, re.IGNORECASE):
                 injury_stats["severed_injury"].append(title)
-
-            # Check for obliterated injury
             if re.search(r'injury', ability, re.IGNORECASE) and re.search(r'obliterated', ability, re.IGNORECASE):
                 injury_stats["obliterated_injury"].append(title)
-            
-            # Check for additional injury keyword
             if re.search(r'additional injur', ability, re.IGNORECASE):
                 injury_stats["additional_injury"].append(title)
 
@@ -132,16 +119,15 @@ def generate_report(entries, output_folder, yaml_file):
     report_content.append(f"Total Number of Body Parts: {total_body_parts}\n")
     report_content.append("Ability Statistics:\n")
     for num, body_parts in ability_stats.items():
-        report_content.append(f"Body Parts With {num} Abilities: ")
-        report_content.append(f"Number of Body Parts: {len(body_parts)}")
+        report_content.append(f"Body Parts With {num} Abilities: {len(body_parts)}")
         for part in body_parts:
             report_content.append(f" - {part}")
         report_content.append("\n")
+    
     # System statistics report
     report_content.append("System Statistics:\n")
     for system, body_parts in system_stats.items():
-        report_content.append(f"Body Parts With System {system}: ")
-        report_content.append(f"Number of Body Parts: {len(body_parts)}")
+        report_content.append(f"Body Parts With System {system}: {len(body_parts)}")
         for part in body_parts:
             report_content.append(f" - {part}")
         report_content.append("\n")
@@ -211,6 +197,7 @@ def generate_report(entries, output_folder, yaml_file):
         print(f"Report successfully written to {output_report}")
     except IOError as e:
         print(f"An error occurred while writing the report: {e}")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert YAML file to CSV and generate a system report.")
