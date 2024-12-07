@@ -16,15 +16,15 @@ The people of today are mutanous, body parts can be detached and fused together,
 
 ## Tribalism and Diversity
 
-Due to the breakdown of society there are no large scale civilisations, and the most common form of society found are small towns or roaming packs and herds. Some colonies are seen to grow into large and orderly cities run by hive minds, others form with symbolic relationships of mutual benefits through alliances. Furthermore, regardless of the size of the society every individual will likely be completely unique, mostly due to every creature constantly changing out their body parts for whatever is useful at the time.
+Due to the breakdown of society there are no large scale civilisations, and the most common form of society found are small towns or roaming packs and herds. Some colonies are seen to grow into large and orderly cities run by hive minds, others form symbiotic relationships of mutual benefits through alliances. Furthermore, regardless of the size of the society every individual will likely be completely unique, mostly due to every creature constantly changing out their body parts for whatever is useful at the time.
 
 ## Precursors
 
-The ancient each spanning species known as the Humans have been extinct for a long time. Little is known about them except they once dominated the globe but due to some world defining event have disappeared. Some of the creations they had made still remain intact, namely the Serum and the Facilities. These are scattered throughout wilderness but are often inhabited by the Ghastly Mutated, so explorers beware.
+The ancient spanning species known as the Humans have been extinct for a long time. Little is known about them except they once dominated the globe but due to some world defining event have disappeared. Some of the creations they had made still remain intact, namely the Serum and the Facilities. These are scattered throughout the wilderness but are often inhabited by the Ghastly Mutated, so explorers beware.
 
 ## The Serum
 
-The serum was the primary solution to the great catastrophe as most humanity were going extinct the world's last scientists devised a serum which would strengthen the survivability of the human species to outlast the impacts of the catastrophe, however what occurred after the serum was deployed across world to every living thing could not be predicted. The serum did enhance the survivability of all creatures, however instead of enhancing DNA with new genomes it made DNA highly volatile, causing it to easily shift and change, leading to the mutability of all creatures.
+The serum was the primary solution to the great catastrophe as humanity was going extinct the world's last scientists devised a serum which would strengthen the survivability of the human species to outlast the impacts of the catastrophe, however what occurred after the serum was deployed to every living thing could not have been predicted. The serum did enhance the survivability of all creatures, however instead of enhancing DNA with new genomes it made DNA highly volatile, causing it to easily shift and change, leading to the mutability of all creatures.
 
 ## Intelligent Life
 

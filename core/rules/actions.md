@@ -14,7 +14,7 @@ Below are some examples of Action Goals:
 
 ## Actions and Body Parts
 
-To execute the action you must Activate a Body Part that is directly connected to the Body. Other Body Parts that are connected to that Body Part are also Activated. The player must then describe how the Mutated use all the connected Body Parts to achieve the goal.
+To execute the action you must Activate a Limb. All Body Parts that are a member of the limb are Activated. The player must then describe how the Mutated use all the connected Body Parts to achieve the goal.
 
 > Imagine a creature with a Poison Gland Body Part, and their task is to poison a tyrant. There are different ways that this could be achieved depending on how the Body Parts are connected.
 > **The Poison Gland is Attached directly to the Body:** The Mutated could Activate to squeeze some poison out onto some food.
@@ -26,7 +26,7 @@ To execute the action you must Activate a Body Part that is directly connected t
 > **Wings are Attached to the Body, Bristles are Attached to the Wings and the Poison Gland is Attached to the Bristles:** The Mutated Activate the Wings, flying high, then shoot their bristles into the creature and inject poison into it's blood stream all in one Action.
 
 >[!IMPORTANT]
-> Notice how the order of the Body Parts effect the way the actions is resolved. When the Cheetah Legs are Activated, the action is modified by the Poison Gland by leaving a trail behind. However, when it is the Poison Gland that is directly connected to the Body, the action is modified by the Cheetah Legs resulting in rolling globules of poison.
+> Notice how the order of the Body Parts effect the way the action is resolved. When the Cheetah Legs are Activated, the action is modified by the Poison Gland by leaving a trail behind. However, when it is the Poison Gland that is directly connected to the Body, the action is modified by the Cheetah Legs resulting in rolling globules of poison.
 
 ## Activating Body Parts
 

@@ -10,9 +10,9 @@ In addition, there are four Direction: Front, Left, Right, Back, which determine
 
 Abilities that allow for movement will describe to what distance you can move toward a target. When using the ability you are able to move to any lesser distance toward your target. For example:
 
-> "You can move up to anywhere Near you. You are Near an enemy that you want to get to." This means you can either get Close to the enemy, or get within Personal Space of the enemy.
+> "You can move up to anywhere Near you". You are Near an enemy that you want to get to. This means you can either get Close to the enemy, or get within Personal Space of the enemy.
 
-> "You can move up to anywhere Near you. You are Distant from a door you want to go through." This means you can get Near to the door.
+> "You can move up to anywhere Near you". You are Distant from a door you want to go through. This means you can get Near to the door.
 
 > "You can fly up to anywhere Distant to You. You are Distant from tree you want to land on." This means you can get Near, Close, or into Personal Space of the tree.
 

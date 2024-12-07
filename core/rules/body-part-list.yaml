@@ -1,6 +1,6 @@
 body:
 - title: Mutagenic Cells
-  system: 
+  system: endocrine
   description: Cells imbued with mutagenic serum
   activated_abilities: 
   - Attach, Remove, and Rearrange your Body Parts

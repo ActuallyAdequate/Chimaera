@@ -2,18 +2,31 @@
 
 ## Injury
 
-When the Mutated gains an injury whether from an attack or an accident, they must choose which Body Part they want to injure. Similiarily, when dealing an injury to another creature they get to choose which Body Part to Injure.
+When the Mutated gains an injury whether from an attack or an accident, they must choose which Body Part they want to injure. Similarly, when dealing an injury to another creature they get to choose which Body Part to Injure.
 
 ### Injury Types
 
-There are two types of Injury you can receive Physical and Internal. Both Injuries a resolved in the same way either taking an injury to the Body or a Body System. However, some Body Parts may grant resistance or defences to particular Injury types.
+There are two types of Injury you can receive Physical and Internal. Both Injuries a resolved in the same way see a Taking an Injury below. Some Body Parts may grant resistance or defences to particular Injury types.
 
 - **Physical:** Represents brute injuries such as scratches, breaks, and punches
 - **Internal:** Represents illness injuries such as poisons, diseases, and ruptures
 
-### Taking an Injury to the Body
+### Taking an Injury
 
-When taking an Injury to the Body, you must select one directly connected Body Part and increase its Disrepair by 1. If increasing the disrepair would cause it to become Broken, then all other Body Parts that are connected to the Broken Body Part cannot be used either as if they too are Broken. Similarly, if the Body Part becomes Severed or Obliterated, then so too does all the other connected Body Parts.
+When taking an Injury, you must select one Body Part that is connected to the Body and increase its Disrepair by the number of Injuries dealt. If increasing the disrepair would cause it to become Broken, then all other Body Parts that are part of the same Limb cannot be used either as if they too are Broken. Similarly, if the Body Part becomes Severed or Obliterated, then so too does all the other connected Body Parts.
+
+>[INFO]
+> When Mutating with Mutagenic Cells you can rearrange the order of the Body Parts so that injured Body Parts don't disable an entire limb.
+
+>[INFO] Defeat
+> If a Creature has no Body Parts left when taking an Injury they instead become Defeated. This means they are unable to deal Injuries until they get a new Body Part by Activating their Mutagenic Cells.
+
+### Dealing an Injury
+
+When dealing an injury select which limb you want to injure of the creature you are targeting. The GM will then decide which Body Part in the limb take the Injuries dealt.
+
+>[!INFO]
+> Some Body Parts allows you to ignore 1 more injuries of a certain type either Physical or Internal. This allows you to reduce the number of Injuries taken each time you are targeted by another's Action. For example if a Creature Activates two Body Parts, That are part of a limb, that both Deal 1 Physical Damage, and you have a Body Part that allows you to Ignore 1 Physical Damage. Then You will only take 1 Physical Damage.
 
 <!-- Need an example Graphic of losing multiple Body Parts -->
 

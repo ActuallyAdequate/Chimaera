@@ -15,7 +15,7 @@ Each Body Part belongs to a Body System. Body Systems represent the biological p
 - <img src="../media/muscular_system.svg" width="20" height="20" alt="Muscular"> The Mutated's ability to move, lift and bend.
 - <img src="../media/integumentary_system.svg" width="20" height="20" alt="Integumentary"> The Mutated's ability to endure hardship, appearance, and structure.
 
-> Sometimes Body Systems will be Inhibited such as darkness inhibiting the sight system. Or a poison inhibiting the circulatory system, or being bound inhibiting the muscular system. When a system is inhibited using Body Parts in that system become difficult or are prevented entirely.
+> Sometimes Body Systems will be Inhibited such as darkness inhibiting the sight system. Or a poison inhibiting the circulatory system, or being bound inhibiting the muscular system. When a system is inhibited using Body Parts in that system are prevented entirely.
 >
 > Creatures can use their Action to clear Inhibited systems if they can justify it
 >
@@ -47,6 +47,6 @@ When executing Actions with Body Parts you create a description of how the Body 
 
 [!Keywords]
 > **Body:** The basic set of Body Parts that form the creature
-> **Body Parts:** grant and execute Abilities when Activated
+> **Body Parts:** Grant and execute Abilities when Activated
 > **Limb:** A set of Body Parts that are connected to each other (All Body Parts in a limb are Activated on an Action)
 > **Body System:** Groups Body Parts together based on type. If the Body System is inhibited then Body Parts of that type cannot be Activated.
