@@ -4,7 +4,7 @@ The Mutated's turn encapsulates their behaviour during a short amount of time. E
 
 ## How many Actions
 
-Every Creature including the Mutated have 1 Action on their turn. This means that they select 1 Limb to Activate its Body Parts.
+Every Creature including the Mutated have 2 Actions on their turn. This means that you select 1 Limb to Activate its Body Parts. Once that action is resolved, you select 1 other limb to Activate its Body Parts.
 
 ## When to use a Strict Turn Order
 

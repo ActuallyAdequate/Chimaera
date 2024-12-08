@@ -8,7 +8,9 @@ When a condition is applied read the description of the condition. Some conditio
 
 ### Acidic
 
-All Body Parts that do not have another Body Part Attached become covered in Acid. If you are unable to wash away the acid by the start of your next Turn, then the Acid will eat at you. Take 1 Internal Damage for each Body Part covered in Acid.
+All Body Parts that do not have another Body Part Attached to it become covered in Acid. If you are unable to wash away the acid by the start of your next Turn, then the Acid will eat at you. Take 1 Internal Damage for each Body Part covered in Acid.
+
+<!-- An info graphic here would be useful -->
 
 ### Blinded
 
@@ -65,6 +67,10 @@ The Integumentary Body System is inhibited. This means immediately that no Body 
 ### Restrained
 
 The Muscular Body System is inhibited. This means immediately that no Body Parts that are a member of the Muscular System can be Activated.
+
+### Parched
+
+The Aromatic Body System is inhibited. This means immediately that no Body Parts that are a member of the Aromatic System can be Activated.
 
 ## When is a Condition Cleared
 
