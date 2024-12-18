@@ -96,6 +96,8 @@ body_parts:
   - Reach to a distance of Close
   - Deal 1 Internal Injury to anyone that gets electrocuted
   - Fit in tight spaces of about 20cm on a side
+  passive_abilities:
+  - Ignore Injuries from being electrocuted.
 - title: Tarantula Cephalothorax
   system: integumentary
   description: Sharp bristles adorne the body and can be ejected.
@@ -212,6 +214,8 @@ body_parts:
   - Dig a hole in soil of 1 cubic metre in size
   - Jump to a height of Near over distance of Near
   - Give the GM 1 Hazard to get a benefit discussing the exact details with the GM
+  passive_abilities:
+  - Ignore Conditions or Injuries from being buried.
 - title: Kangaroo Legs
   system: muscular
   description: Powerful Legs that jump high and kick hard
@@ -228,6 +232,8 @@ body_parts:
   - Dig a hole in rock of 1 cubic metre in size
   - Reach to distance Close
   - Deal 1 Physical Injury when cutting
+  passive_abilities:
+  - Ignore Conditions or Injuries from being Buried
 - title: Mountain Goat Hooves
   system: integumentary
   description: Wooly Legs and Hooves that can jump high and climb steep cliffs
@@ -292,7 +298,7 @@ body_parts:
   activated_abilities:
   - Swim a distance of Distant vertically or horizontally
   passive_abilities:
-  - Ignore the Drowning Condition
+  - Ignore the Suffocating Condition
 - title: Lionfish Fins
   system: integumentary
   description: Colourful and complex appendages that have many branches with poison barbs at the end
@@ -315,7 +321,7 @@ body_parts:
   - Reach to a distance Close
   - Deal 1 Physical Injury whe slashing
   - Deal 1 Additional Physical Injury to a body Part that is part of the integumentary System
-  - You can pick up things much large in size by digging your claws into it
+  - You can pick up things much large in size by gripping your claws into it
 - title: Lyre Bird Voice Box
   system: aromatic
   description: A voice box that can perfectly mimic any surrounding
@@ -465,6 +471,8 @@ body_parts:
   activated_abilities:
   - Deal 1 Internal Injury, to anyone that is in contact with the electricty
   - Swim a distance of Distant vertically or horizontally
+  passive_abilities:
+  - Ignore Injuries from being electrocuted
 - title: Poison Gland
   system: endocrine
   description: A gland that produces a liquid poison
@@ -663,7 +671,7 @@ body_parts:
   - Grant the Prone Condition to anyone hit by the blast of liquid 
   - Launch the liquid to a distance of Distant
   passive_abilities:
-  - Ignore the Drowning Condition
+  - Ignore the Suffocating Condition
 - title: Sugar Glider Patagium
   system: integumentary
   description: Fur Covered skin flabs that allow for gliding
@@ -671,13 +679,6 @@ body_parts:
   - Glide Horizontally in Air up to a distance of Distant
   passive_abilities:
   - Ignore Injuries from falling
-- title: Vampiric Bat Fangs
-  system: circulatory
-  description: Peircing fangs that draw blood from the wounded
-  activated_abilities:
-  - Reach a distance of Close
-  - Deal 1 Physical Injury when you bite
-  - Heal a body Part by 1 Disrepair that is a member of the integumentary system when you bite
 - title: Mosquito Proboscis
   system: circulatory
   description: sucking probe that draw blood from the wounded

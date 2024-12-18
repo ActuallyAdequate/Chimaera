@@ -50,7 +50,7 @@ Additionally, landing on the Season Change hex in the centre will cause the seas
 
 #### Blizzard
 
-All creatures gain the Freezing Condition. If you don’t move each turn the snow packs you in granting the Restrained Condition. Ignore the snow if you have an Ability that allows you to dig.
+All creatures gain the Freezing Condition. If you don’t move each turn the snow buries you in granting the Restrained Condition.
 
 #### Dark Fog
 
@@ -58,7 +58,7 @@ All creatures are granted the Blinded Condition.
 
 #### Dust Storm
 
-All creatures gain the Blinded Condition. If you don’t move each turn the dust packs you in granting the Restrained Condition. Ignore the dust if you have an Ability that allows you to dig.
+All creatures gain the Blinded Condition. If you don’t move each turn the dust buries you in granting the Restrained Condition.
 
 #### Fierce Winds
 
@@ -70,7 +70,7 @@ Each round a random creature is selected, they gain the Burning Condition.
 
 #### Flash Wave
 
-The wave will sweep in a random direction. All creatures and loose objects that are not on high ground or able to hold on are swept in the direction of the wave, by a distance of near. Holding on against the wave without protection requires passing a Challenge. Failing the challenge also grants the Drowning Condition.
+The wave will sweep in a random direction. All creatures and loose objects that are not on high ground or able to hold on are swept in the direction of the wave, by a distance of near. Holding on against the wave without protection requires passing a Challenge. Failing the challenge also grants the Suffocating Condition.
 
 #### Hail Storm
 
@@ -98,7 +98,7 @@ Creatures are unable to fly with Body Parts that grant flight movement. Body Par
 
 #### Thunderstorm
 
-All Creatures Gain the Deafened Condition. Each round a Random creature will be struck by lightning. They will take 1 Internal Injury. Anyone connected by a conductive material will also be struck. Ignore the Injury if you have an ability that involves the use of Electricity.
+All Creatures Gain the Deafened Condition. Each round a Random creature will be struck by lightning. They will take 1 Internal Injury. Anyone connected by a conductive material will also be struck.
 
 #### Tornado
 

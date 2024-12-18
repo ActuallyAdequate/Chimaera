@@ -26,7 +26,7 @@ Immediately choose 1 limb of Body Parts. Each of these Body Parts are on fire. I
 
 ### Charmed
 
-The creature Charming you can select what Body Part is Activated on your Action
+The creature Charming you can select what Body Part is Activated on your Action, but not how you use it.
 
 ### Confused
 
@@ -38,11 +38,11 @@ The Auditory Body System is inhibited. This means immediately that no Body Parts
 
 ### Disgusted
 
-You must remain at a Distance of Distant from what is Disgusting you. Each time you get closer the Body System that is sensing the disgust will be Inhibited, and no Body Parts from that system can be Activated.
+You must remain at a Distance of Distant from what is Disgusting you. If you get closer the Body System that is sensing the disgust will be Inhibited.
 
-### Drowning
+### Suffocating
 
-Take 1 Internal Injury for each Action you execute while Drowning
+Take 1 Internal Injury for each Action you execute while Suffocating
 
 ### Freezing
 
