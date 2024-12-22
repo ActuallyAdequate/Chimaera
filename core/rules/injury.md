@@ -13,7 +13,7 @@ There are two types of Injury you can receive Physical and Internal. Both Injuri
 
 ### Taking an Injury
 
-When taking an Injury, you must select one Body Part that is connected to the Body and increase its Disrepair by the number of Injuries dealt. If increasing the disrepair would cause it to become Broken, then all other Body Parts that are part of the same Limb cannot be used either as if they too are Broken. Similarly, if the Body Part becomes Severed or Obliterated, then so too does all the other connected Body Parts.
+When taking an Injury, you must select one Body Part and increase its Disrepair by the number of Injuries dealt. If increasing the disrepair would cause it to become Broken, then the Body Part can no longer be Activated
 
 >[INFO]
 > When Mutating with Mutagenic Cells you can rearrange the order of the Body Parts so that injured Body Parts don't disable an entire limb.
@@ -27,8 +27,6 @@ When dealing an injury select which limb you want to injure of the creature you 
 
 >[!INFO]
 > Some Body Parts allows you to ignore 1 more injuries of a certain type either Physical or Internal. This allows you to reduce the number of Injuries taken each time you are targeted by another's Action. For example if a Creature Activates two Body Parts, That are part of a limb, that both Deal 1 Physical Damage, and you have a Body Part that allows you to Ignore 1 Physical Damage. Then You will only take 1 Physical Damage.
-
-<!-- Need an example Graphic of losing multiple Body Parts -->
 
 ## Disrepair
 
@@ -44,9 +42,9 @@ When dealing an injury select which limb you want to injure of the creature you 
 Some Abilities will allow for the following special states of Disrepair.
 
 - **Obliterated:** The Body Part is completely destroyed, it cannot be healed and is no longer attached to the Body. It can’t be picked up and used. It is now bloody mush on the floor.
-- **Severed** The Body Part is torn off from the Body. It will fly in the air to the creature that severed it. They can then spend an Action to take the Metamorphosis Ability, to attach the severed piece.
+- **Severed** The Body Part is torn off from the Body. It will fly in the air to the creature that severed it. They can immediately use their Mutagenic Cells to attach the severed piece.
 
 >[!TIP]
 If playing with Body Part cards, the orientation of the cards will correspond to the level of disrepair:
-> ![Rotating Cards](../media/damage-cards.png)
+> ![Rotating Cards](../media/injured_cards.svg)
 > Alternatively you can use paperclips to mark the Disrepair level.

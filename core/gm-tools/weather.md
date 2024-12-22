@@ -68,7 +68,7 @@ The wind will blow in a random direction. All creatures and loose objects that a
 
 Each round a random creature is selected, they gain the Burning Condition.
 
-#### Flash Wave
+#### Tsunami
 
 The wave will sweep in a random direction. All creatures and loose objects that are not on high ground or able to hold on are swept in the direction of the wave, by a distance of near. Holding on against the wave without protection requires passing a Challenge. Failing the challenge also grants the Suffocating Condition.
 
