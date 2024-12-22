@@ -62,16 +62,16 @@ All Body Parts that are attached directly to the Body, become Poisoned. If you a
 
 ### Prone
 
-The Integumentary Body System is inhibited. This means immediately that no Body Parts that are a member of the Integumentary System can be Activated.
+You are knocked to the ground. The Integumentary Body System is inhibited. This means immediately that no Body Parts that are a member of the Integumentary System can be Activated.
 
 ### Restrained
 
-The Muscular Body System is inhibited. This means immediately that no Body Parts that are a member of the Muscular System can be Activated.
+You are tied up and bound. The Muscular Body System is inhibited. This means immediately that no Body Parts that are a member of the Muscular System can be Activated.
 
 ### Parched
 
-The Aromatic Body System is inhibited. This means immediately that no Body Parts that are a member of the Aromatic System can be Activated.
+You are extremely thirsty. The Aromatic Body System is inhibited. This means immediately that no Body Parts that are a member of the Aromatic System can be Activated.
 
 ## When is a Condition Cleared
 
-A condition is cleared when the entity causing the condition ceases. If a Creature is causing the Condition such as in Frightened or Charmed, then the condition will end at the start of their next turn. Other conditions such as Burning or Acidic will end when the fire or acid is removed. Some conditions such a Boiling and Freezing can be caused by the weather, and so will be cleared when the weather event ends.
+A condition is cleared when the entity causing the condition ceases. If a Creature is causing the Condition such as in Frightened or Charmed, then the condition will end at the start of their next turn. A Condition may be caused by the Action of another creature, such as Prone or Restrained, these can be cleared by using an Action to get up, or completing a challenge to break out of restraints. Other conditions such as Burning or Acidic will end when the fire or acid is removed. Some conditions such a Boiling and Freezing can be caused by the weather, and so will be cleared when the weather event ends.

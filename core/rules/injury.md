@@ -19,7 +19,7 @@ When taking an Injury, you must select one Body Part that is connected to the Bo
 > When Mutating with Mutagenic Cells you can rearrange the order of the Body Parts so that injured Body Parts don't disable an entire limb.
 
 >[INFO] Defeat
-> If a Creature has no Body Parts left when taking an Injury they instead become Defeated. This means they are unable to deal Injuries until they get a new Body Part by Activating their Mutagenic Cells.
+> If a Creature has no Body Parts left after taking an Injury they become Defeated. This means they are unable to participate in the turn order until they are given a new Body Part and Activate their Mutagenic Cells.
 
 ### Dealing an Injury
 
